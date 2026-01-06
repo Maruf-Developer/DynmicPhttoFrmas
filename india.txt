@@ -21,7 +21,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/squr/fram-19.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/squr/fram-20.webp"
   ],
-  "square1a": [
+  "square5a": [
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/squr1/frame-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/squr1/frame-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/squr1/frame-3.webp",
@@ -65,7 +65,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/port/fram-19.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/port/fram-20.webp"
   ],
-  "portrait1a": [
+  "portrait5a": [
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/port1/frame-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/port1/frame-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/port1/frame-3.webp",
@@ -109,7 +109,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/land/fram-19.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/land/fram-20.webp"
   ],
-  "landscape1a": [
+  "landscape5a": [
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/land1/frame-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/land1/frame-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RepubliicDyPhtoFrm/land1/frame-3.webp",
