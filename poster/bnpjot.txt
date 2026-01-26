@@ -1,0 +1,32 @@
+{
+
+  "truck_dhaka":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/gono_dhk8.webp"
+    ],
+
+  "truck_ctg":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/gono_ctg2.webp"
+    ],
+
+  "truck_barisal":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/gono_patua3.webp"
+    ],
+
+  "truck_rangpur":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/gono_kuri1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/gono_thakur2.webp"
+    ],
+
+  "jomiot_syl":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot_syl5.webp"
+    ],
+  "jomiot_brahmn":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot_brhmn2.webp"
+    ],
+  "jomiot_nilpha":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot_nilpha1.webp"
+    ],
+  "jomiot_nara":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot_nara4.webp"
+    ]
+}
