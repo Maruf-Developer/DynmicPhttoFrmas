@@ -45,6 +45,12 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanMubarakPhtoFrm/port/port%20(21).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanMubarakPhtoFrm/port/port%20(22).webp"
   ],
+
+  "portrait1a": [
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanPhotFrmes/temp/t1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanPhotFrmes/temp/t2.webp"
+  ],
+
   "landscape1": [
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-2.webp",
