@@ -12,6 +12,10 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr14.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr15.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr20.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr11.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr12.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr10.webp",
@@ -24,6 +28,8 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/ports/fram-4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/ports/fram-5.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/ports/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/port/fram-29.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/port/fram-30.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/ports/fram-7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/ports/fram-8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/ports/fram-9.webp",
@@ -39,9 +45,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_19.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_23.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_24.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_26.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_24.webp"
   ],
   "landscape1": [
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/land1/fram-1.webp",
