@@ -1,0 +1,1816 @@
+{
+  "controls": {
+    "ads_control": {
+      "ad_interval": 20,
+      "show_ad": true
+    },
+    "msg_control": {
+      "message": "আমাদের অ্যাপটি ভালো লাগলে প্লে-স্টোরে একটি ৫-স্টার (⭐⭐⭐⭐⭐) রিভিউ দিন।",
+      "show": true
+    },
+    "notice_control": {
+      "message": "আপনার পছন্দের প্রার্থীর পোষ্টার না থাকলে আমাদের ফেসবুক গ্রুপে জানান।",
+      "show": true
+    }
+  },
+  "frames": {
+    "bangladesh_categories": {
+      "01": {
+        "api_file": "bangla.txt",
+        "name": "২১শে ফেব্রুয়ারী",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/feb21.webp"
+      },
+      "02": {
+        "api_file": "bangla.txt",
+        "name": "২৬শে মার্চ",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/march26.webp"
+      },
+      "03": {
+        "api_file": "bangla.txt",
+        "name": "১৬ ডিসেম্বর",
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dec16.webp"
+      },
+      "04": {
+        "api_file": "bangla.txt",
+        "name": "পহেলা বৈশাখ",
+        "suffix": "4",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/pohela.webp"
+      },
+      "07": {
+        "api_file": "bangla.txt",
+        "name": "বিএনপি",
+        "suffix": "7",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp"
+      },
+      "08": {
+        "api_file": "bangla.txt",
+        "name": "আওয়ামী লীগ",
+        "suffix": "8",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp"
+      },
+      "09": {
+        "api_file": "islamic.txt",
+        "name": "মাহে রমজান",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanPhotFrmes/temp/ramadan.webp"
+      }
+    },
+    "famous_categories": {
+      "10": {
+        "api_file": "global.txt",
+        "name": "Love",
+        "suffix": "22",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/love.webp"
+      },
+      "11": {
+        "api_file": "global.txt",
+        "name": "Miss You",
+        "suffix": "32",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/miss.webp"
+      },
+      "12": {
+        "api_file": "global.txt",
+        "name": "Nature",
+        "suffix": "34",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/nature.webp"
+      },
+      "01": {
+        "api_file": "global.txt",
+        "name": "Snowfall",
+        "suffix": "27",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/snowfall.webp"
+      },
+      "02": {
+        "api_file": "global.txt",
+        "name": "Peacock",
+        "suffix": "7",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/peacock.webp"
+      },
+      "03": {
+        "api_file": "global.txt",
+        "name": "Sunset",
+        "suffix": "28",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/sunset.webp"
+      },
+      "04": {
+        "api_file": "global.txt",
+        "name": "Waterfall",
+        "suffix": "31",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/waterfall.webp"
+      },
+      "05": {
+        "api_file": "global.txt",
+        "name": "Autumn",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/autumn.webp"
+      },
+      "06": {
+        "api_file": "global.txt",
+        "name": "Book",
+        "suffix": "14",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/book.webp"
+      },
+      "07": {
+        "api_file": "global.txt",
+        "name": "Garden",
+        "suffix": "17",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/garden.webp"
+      },
+      "08": {
+        "api_file": "global.txt",
+        "name": "Hill",
+        "suffix": "19",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/hill.webp"
+      },
+      "09": {
+        "api_file": "global.txt",
+        "name": "Kids",
+        "suffix": "5",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/kids.webp"
+      }
+    },
+    "featured_categories": {
+      "01": {
+        "api_file": "global.txt",
+        "name": "Tajmahal",
+        "suffix": "29",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/tajmahal.webp"
+      },
+      "02": {
+        "api_file": "global.txt",
+        "name": "Beach",
+        "suffix": "26",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/beach.webp"
+      },
+      "03": {
+        "api_file": "global.txt",
+        "name": "Hall",
+        "suffix": "18",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/hall.webp"
+      },
+      "04": {
+        "api_file": "global.txt",
+        "name": "Hoarding",
+        "suffix": "20",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/hoarding.webp"
+      },
+      "05": {
+        "api_file": "global.txt",
+        "name": "Lotus",
+        "suffix": "6",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/lotus.webp"
+      },
+      "06": {
+        "api_file": "global.txt",
+        "name": "Rose",
+        "suffix": "25",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/rose.webp"
+      },
+      "07": {
+        "api_file": "global.txt",
+        "name": "Morning",
+        "suffix": "23",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/morning.webp"
+      },
+      "08": {
+        "api_file": "global.txt",
+        "name": "Night",
+        "suffix": "24",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/night.webp"
+      },
+      "09": {
+        "api_file": "global.txt",
+        "name": "Parachute",
+        "suffix": "8",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/parachute.webp"
+      }
+    },
+    "global_event": {
+      "01": {
+        "api_file": "event.txt",
+        "name": "New Year",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ny.webp"
+      },
+      "02": {
+        "api_file": "event.txt",
+        "name": "Birthday",
+        "suffix": "8",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/birthday.webp"
+      },
+      "03": {
+        "api_file": "event.txt",
+        "name": "Anniversary",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/anniversary.webp"
+      },
+      "04": {
+        "api_file": "event.txt",
+        "name": "Wedding",
+        "suffix": "4",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/wedding.webp"
+      },
+      "05": {
+        "api_file": "event.txt",
+        "name": "Mothers Day",
+        "suffix": "5",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/mothers.webp"
+      },
+      "06": {
+        "api_file": "event.txt",
+        "name": "Womens Day",
+        "suffix": "6",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/women.webp"
+      },
+      "07": {
+        "api_file": "event.txt",
+        "name": "Friendship",
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/friendship.webp"
+      },
+      "08": {
+        "api_file": "event.txt",
+        "name": "Valentine Day",
+        "suffix": "7",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/valentine.webp"
+      }
+    },
+    "india_categories": {
+      "01": {
+        "api_file": "india.txt",
+        "name": "Republic",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/repub.webp"
+      },
+      "02": {
+        "api_file": "india.txt",
+        "name": "Independence",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenind.webp"
+      }
+    },
+    "islamic_categories": {
+      "01": {
+        "api_file": "islamic.txt",
+        "name": "Ramadan",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ramadan.webp"
+      },
+      "02": {
+        "api_file": "islamic.txt",
+        "name": "Eid Fitr",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/fitr.webp"
+      },
+      "03": {
+        "api_file": "islamic.txt",
+        "name": "Eid Adha",
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp"
+      },
+      "04": {
+        "api_file": "islamic.txt",
+        "name": "Ashura",
+        "suffix": "4",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ashura.webp"
+      },
+      "05": {
+        "api_file": "islamic.txt",
+        "name": "Islamic",
+        "suffix": "5",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/islamic.webp"
+      }
+    },
+    "pakistan_categories": {
+      "01": {
+        "api_file": "pakistan.txt",
+        "name": "Independence",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenpak.webp"
+      },
+      "02": {
+        "api_file": "pakistan.txt",
+        "name": "Defence",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dfnc.webp"
+      }
+    },
+    "unique_categories": {
+      "10": {
+        "api_file": "global.txt",
+        "name": "Mobile",
+        "suffix": "33",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/mobile.webp"
+      },
+      "11": {
+        "api_file": "global.txt",
+        "name": "Bottle",
+        "suffix": "12",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bottle.webp"
+      },
+      "12": {
+        "api_file": "global.txt",
+        "name": "Glass",
+        "suffix": "11",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/glass.webp"
+      },
+      "13": {
+        "api_file": "global.txt",
+        "name": "Coffee Cup",
+        "suffix": "10",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/coffeecup.webp"
+      },
+      "01": {
+        "api_file": "global.txt",
+        "name": "Fire Text",
+        "suffix": "16",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/firetext.webp"
+      },
+      "02": {
+        "api_file": "global.txt",
+        "name": "3D Frame",
+        "suffix": "13",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/frame3d.webp"
+      },
+      "03": {
+        "api_file": "global.txt",
+        "name": "T-Shirt",
+        "suffix": "9",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/tshirt.webp"
+      },
+      "04": {
+        "api_file": "global.txt",
+        "name": "Underwater",
+        "suffix": "30",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/underwater.webp"
+      },
+      "05": {
+        "api_file": "global.txt",
+        "name": "Aquarium",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/aquarium.webp"
+      },
+      "06": {
+        "api_file": "global.txt",
+        "name": "Bubble",
+        "suffix": "15",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bubble.webp"
+      },
+      "07": {
+        "api_file": "global.txt",
+        "name": "Butterfly",
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/butterfly.webp"
+      },
+      "08": {
+        "api_file": "global.txt",
+        "name": "Jungle",
+        "suffix": "21",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/jungle.webp"
+      },
+      "09": {
+        "api_file": "global.txt",
+        "name": "Glitter",
+        "suffix": "4",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/glitter.webp"
+      }
+    }
+  },
+  "posters": {
+    "groups": {
+      "01_bnp": {
+        "api_file": "poster/bnp.txt",
+        "id": "01_bnp",
+        "logo": "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/logo/bnp.webp",
+        "name": "বিএনপি পোস্টার"
+      },
+      "02_jamaat": {
+        "api_file": "poster/jamaat.txt",
+        "id": "02_jamaat",
+        "logo": "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/logo/jamaat.webp",
+        "name": "জামায়াত পোস্টার"
+      },
+      "03_iab": {
+        "api_file": "poster/iab.txt",
+        "id": "03_iab",
+        "logo": "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/logo/iab.webp",
+        "name": "আইএবি পোস্টার"
+      },
+      "04_ncp": {
+        "api_file": "poster/ncp.txt",
+        "id": "04_ncp",
+        "logo": "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/logo/ncp.webp",
+        "name": "এনসিপি পোষ্টার"
+      },
+      "08_swatontro": {
+        "api_file": "poster/swatontro.txt",
+        "id": "08_swatontro",
+        "logo": "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/logo/bda.webp",
+        "name": "স্বতন্ত্র প্রার্থী পোষ্টার"
+      },
+      "09_langol": {
+        "api_file": "poster/langol.txt",
+        "id": "09_langol",
+        "logo": "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/logo/langol.webp",
+        "name": "জাতীয় পার্টি পোষ্টার"
+      },
+      "10_sunni": {
+        "api_file": "poster/sunni.txt",
+        "id": "10_sunni",
+        "logo": "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/logo/sunni.webp",
+        "name": "বৃহত্তর সুন্নী জোট"
+      },
+      "11_bnp_jot": {
+        "api_file": "poster/bnpjot.txt",
+        "id": "11_bnp_jot",
+        "logo": "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/logo/bnpa.webp",
+        "name": "বিএনপি সমর্থিত জোট"
+      },
+      "12_islamidol": {
+        "api_file": "poster/islamidol.txt",
+        "id": "12_islamidol",
+        "logo": "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/logo/jamaata.webp",
+        "name": "জামায়াতে ইসলামি জোট"
+      }
+    },
+    "political_groups": {
+      "01_bnp": {
+        "divisions": {
+          "01_popular": {
+            "districts": {
+              "01_popular": {
+                "category_key": "PopularAshon",
+                "name": "জনপ্রিয় আসন"
+              },
+              "02_khaleda": {
+                "category_key": "KhaledaAshon",
+                "name": "খালেদা জিয়ার আসন"
+              }
+            },
+            "name": "জনপ্রিয় ক্যাটাগরি"
+          },
+          "02_dhaka": {
+            "districts": {
+              "01_d1": {
+                "category_key": "dhaka1",
+                "name": "ঢাকা জেলার আসন (১-৫)"
+              },
+              "02_d2": {
+                "category_key": "dhaka2",
+                "name": "ঢাকা জেলার আসন (৬-১০)"
+              },
+              "03_d3": {
+                "category_key": "dhaka3",
+                "name": "ঢাকা জেলার আসন (১১-১৫)"
+              },
+              "04_d4": {
+                "category_key": "dhaka4",
+                "name": "ঢাকা জেলার আসন (১৬-২০)"
+              },
+              "05_gazipur": {
+                "category_key": "gazipur",
+                "name": "গাজীপুর জেলার আসন"
+              },
+              "06_narayanganj": {
+                "category_key": "narayanganj",
+                "name": "নারায়ণগঞ্জ জেলার আসন"
+              },
+              "07_faridpur": {
+                "category_key": "faridpur",
+                "name": "ফরিদপুর জেলার আসন"
+              },
+              "08_gopalganj": {
+                "category_key": "gopalganj",
+                "name": "গোপালগঞ্জ জেলার আসন"
+              },
+              "09_kishoreganj": {
+                "category_key": "kishoreganj",
+                "name": "কিশোরগঞ্জ জেলার আসন"
+              },
+              "10_madaripur": {
+                "category_key": "madaripur",
+                "name": "মাদারীপুর জেলার আসন"
+              },
+              "11_manikganj": {
+                "category_key": "manikganj",
+                "name": "মানিকগঞ্জ জেলার আসন"
+              },
+              "12_munshiganj": {
+                "category_key": "munshiganj",
+                "name": "মুন্সিগঞ্জ জেলার আসন"
+              },
+              "13_narsingdi": {
+                "category_key": "narsingdi",
+                "name": "নরসিংদী জেলার আসন"
+              },
+              "14_rajbari": {
+                "category_key": "rajbari",
+                "name": "রাজবাড়ী জেলার আসন"
+              },
+              "15_shariatpur": {
+                "category_key": "shariatpur",
+                "name": "শরীয়তপুর জেলার আসন"
+              },
+              "16_tangail1": {
+                "category_key": "tangail1",
+                "name": "টাঙ্গাইল জেলার আসন (১-৪)"
+              },
+              "17_tangail2": {
+                "category_key": "tangail2",
+                "name": "টাঙ্গাইল জেলার আসন (৫-৮)"
+              }
+            },
+            "name": "ঢাকা বিভাগ"
+          },
+          "03_chattogram": {
+            "districts": {
+              "01_c1": {
+                "category_key": "chattogram1",
+                "name": "চট্টগ্রাম জেলার আসন (১-৫)"
+              },
+              "02_c2": {
+                "category_key": "chattogram2",
+                "name": "চট্টগ্রাম জেলার আসন (৬-১০)"
+              },
+              "03_c3": {
+                "category_key": "chattogram3",
+                "name": "চট্টগ্রাম জেলার আসন (১১-১৬)"
+              },
+              "04_cumilla1": {
+                "category_key": "cumilla1",
+                "name": "কুমিল্লা জেলার আসন (১-৫)"
+              },
+              "05_cumilla2": {
+                "category_key": "cumilla2",
+                "name": "কুমিল্লা জেলার আসন (৬-১১)"
+              },
+              "06_feni": {
+                "category_key": "feni",
+                "name": "ফেনী জেলার আসন"
+              },
+              "07_noakhali": {
+                "category_key": "noakhali",
+                "name": "নোয়াখালী জেলার আসন"
+              },
+              "08_lakshmipur": {
+                "category_key": "lakshmipur",
+                "name": "লক্ষ্মীপুর জেলার আসন"
+              },
+              "09_chandpur": {
+                "category_key": "chandpur",
+                "name": "চাঁদপুর জেলার আসন"
+              },
+              "10_brahmanbaria": {
+                "category_key": "brahmanbaria",
+                "name": "ব্রাহ্মণবাড়িয়া জেলার আসন"
+              },
+              "11_coxsbazar": {
+                "category_key": "coxsbazar",
+                "name": "কক্সবাজার জেলার আসন"
+              },
+              "12_rangamati": {
+                "category_key": "rangamati",
+                "name": "রাঙ্গামাটি জেলার আসন"
+              },
+              "13_khagrachhari": {
+                "category_key": "khagrachhari",
+                "name": "খাগড়াছড়ি জেলার আসন"
+              },
+              "14_bandarban": {
+                "category_key": "bandarban",
+                "name": "বান্দরবান জেলার আসন"
+              }
+            },
+            "name": "চট্টগ্রাম বিভাগ"
+          },
+          "04_rajshahi": {
+            "districts": {
+              "01_rajshahi": {
+                "category_key": "rajshahi",
+                "name": "রাজশাহী জেলার আসন"
+              },
+              "02_naogaon": {
+                "category_key": "naogaon",
+                "name": "নওগাঁ জেলার আসন"
+              },
+              "03_chapainawabganj": {
+                "category_key": "chapainawabganj",
+                "name": "চাঁপাইনবাবগঞ্জ জেলার আসন"
+              },
+              "04_bogura1": {
+                "category_key": "bogura1",
+                "name": "বগুড়া জেলার আসন (১-৫)"
+              },
+              "05_bogura2": {
+                "category_key": "bogura2",
+                "name": "বগুড়া জেলার আসন (৬-৭)"
+              },
+              "06_joypurhat": {
+                "category_key": "joypurhat",
+                "name": "জয়পুরহাট জেলার আসন"
+              },
+              "07_natore": {
+                "category_key": "natore",
+                "name": "নাটোর জেলার আসন"
+              },
+              "08_sirajganj": {
+                "category_key": "sirajganj",
+                "name": "সিরাজগঞ্জ জেলার আসন"
+              },
+              "09_pabna": {
+                "category_key": "pabna",
+                "name": "পাবনা জেলার আসন"
+              }
+            },
+            "name": "রাজশাহী বিভাগ"
+          },
+          "05_khulna": {
+            "districts": {
+              "01_khulna": {
+                "category_key": "khulna",
+                "name": "খুলনা জেলার আসন"
+              },
+              "02_bagerhat": {
+                "category_key": "bagerhat",
+                "name": "বাগেরহাট জেলার আসন"
+              },
+              "03_chuadanga": {
+                "category_key": "chuadanga",
+                "name": "চুয়াডাঙ্গা জেলার আসন"
+              },
+              "04_jessore": {
+                "category_key": "jessore",
+                "name": "যশোর জেলার আসন"
+              },
+              "05_jhenaidah": {
+                "category_key": "jhenaidah",
+                "name": "ঝিনাইদহ জেলার আসন"
+              },
+              "06_satkhira": {
+                "category_key": "satkhira",
+                "name": "সাতক্ষীরা জেলার আসন"
+              },
+              "07_magura": {
+                "category_key": "magura",
+                "name": "মাগুরা জেলার আসন"
+              },
+              "08_meherpur": {
+                "category_key": "meherpur",
+                "name": "মেহেরপুর জেলার আসন"
+              },
+              "09_narail": {
+                "category_key": "narail",
+                "name": "নড়াইল জেলার আসন"
+              },
+              "10_kushtia": {
+                "category_key": "kushtia",
+                "name": "কুষ্টিয়া জেলার আসন"
+              }
+            },
+            "name": "খুলনা বিভাগ"
+          },
+          "06_barishal": {
+            "districts": {
+              "01_barishal": {
+                "category_key": "barishal",
+                "name": "বরিশাল জেলার আসন"
+              },
+              "02_patuakhali": {
+                "category_key": "patuakhali",
+                "name": "পটুয়াখালী জেলার আসন"
+              },
+              "03_bhola": {
+                "category_key": "bhola",
+                "name": "ভোলা জেলার আসন"
+              },
+              "04_jhalokathi": {
+                "category_key": "jhalokathi",
+                "name": "ঝালকাঠি জেলার আসন"
+              },
+              "05_pirojpur": {
+                "category_key": "pirojpur",
+                "name": "পিরোজপুর জেলার আসন"
+              },
+              "06_barguna": {
+                "category_key": "barguna",
+                "name": "বরগুনা জেলার আসন"
+              }
+            },
+            "name": "বরিশাল বিভাগ"
+          },
+          "07_sylhet": {
+            "districts": {
+              "01_sylhet": {
+                "category_key": "sylhet",
+                "name": "সিলেট জেলার আসন"
+              },
+              "02_moulvibazar": {
+                "category_key": "moulvibazar",
+                "name": "মৌলভীবাজার জেলার আসন"
+              },
+              "03_habiganj": {
+                "category_key": "habiganj",
+                "name": "হবিগঞ্জ জেলার আসন"
+              },
+              "04_sunamganj": {
+                "category_key": "sunamganj",
+                "name": "সুনামগঞ্জ জেলার আসন"
+              }
+            },
+            "name": "সিলেট বিভাগ"
+          },
+          "08_rangpur": {
+            "districts": {
+              "01_rangpur": {
+                "category_key": "rangpur",
+                "name": "রংপুর জেলার আসন"
+              },
+              "02_dinajpur": {
+                "category_key": "dinajpur",
+                "name": "দিনাজপুর জেলার আসন"
+              },
+              "03_lalmonirhat": {
+                "category_key": "lalmonirhat",
+                "name": "লালমনিরহাট জেলার আসন"
+              },
+              "04_nilphamari": {
+                "category_key": "nilphamari",
+                "name": "নীলফামারী জেলার আসন"
+              },
+              "05_kurigram": {
+                "category_key": "kurigram",
+                "name": "কুড়িগ্রাম জেলার আসন"
+              },
+              "06_gaibandha": {
+                "category_key": "gaibandha",
+                "name": "গাইবান্ধা জেলার আসন"
+              },
+              "07_thakurgaon": {
+                "category_key": "thakurgaon",
+                "name": "ঠাকুরগাঁও জেলার আসন"
+              },
+              "08_panchagarh": {
+                "category_key": "panchagarh",
+                "name": "পঞ্চগড় জেলার আসন"
+              }
+            },
+            "name": "রংপুর বিভাগ"
+          },
+          "09_mymensingh": {
+            "districts": {
+              "01_m1": {
+                "category_key": "mymensingh1",
+                "name": "ময়মনসিংহ জেলার আসন (১-৫)"
+              },
+              "02_m2": {
+                "category_key": "mymensingh2",
+                "name": "ময়মনসিংহ জেলার আসন (৬-১১)"
+              },
+              "03_jamalpur": {
+                "category_key": "jamalpur",
+                "name": "জামালপুর জেলার আসন"
+              },
+              "04_netrokona": {
+                "category_key": "netrokona",
+                "name": "নেত্রকোনা জেলার আসন"
+              },
+              "05_sherpur": {
+                "category_key": "sherpur",
+                "name": "শেরপুর জেলার আসন"
+              }
+            },
+            "name": "ময়মনসিংহ বিভাগ"
+          }
+        }
+      },
+      "02_jamaat": {
+        "divisions": {
+          "01_dhaka": {
+            "districts": {
+              "01_dhaka": {
+                "category_key": "dhaka",
+                "name": "ঢাকা জেলার আসন"
+              },
+              "02_faridpur": {
+                "category_key": "faridpur",
+                "name": "ফরিদপুর জেলার আসন"
+              },
+              "03_gazipur": {
+                "category_key": "gazipur",
+                "name": "গাজীপুর জেলার আসন"
+              },
+              "04_gopalganj": {
+                "category_key": "gopalganj",
+                "name": "গোপালগঞ্জ জেলার আসন"
+              },
+              "05_kishoreganj": {
+                "category_key": "kishoreganj",
+                "name": "কিশোরগঞ্জ জেলার আসন"
+              },
+              "06_madaripur": {
+                "category_key": "madaripur",
+                "name": "মাদারীপুর জেলার আসন"
+              },
+              "07_manikganj": {
+                "category_key": "manikganj",
+                "name": "মানিকগঞ্জ জেলার আসন"
+              },
+              "08_munshiganj": {
+                "category_key": "munshiganj",
+                "name": "মুন্সিগঞ্জ জেলার আসন"
+              },
+              "09_narayanganj": {
+                "category_key": "narayanganj",
+                "name": "নারায়ণগঞ্জ জেলার আসন"
+              },
+              "10_narsingdi": {
+                "category_key": "narsingdi",
+                "name": "নরসিংদী জেলার আসন"
+              },
+              "11_rajbari": {
+                "category_key": "rajbari",
+                "name": "রাজবাড়ী জেলার আসন"
+              },
+              "12_shariatpur": {
+                "category_key": "shariatpur",
+                "name": "শরীয়তপুর জেলার আসন"
+              },
+              "13_tangail": {
+                "category_key": "tangail",
+                "name": "টাঙ্গাইল জেলার আসন"
+              }
+            },
+            "name": "ঢাকা বিভাগ"
+          },
+          "02_chattogram": {
+            "districts": {
+              "01_chattogram": {
+                "category_key": "chattogram",
+                "name": "চট্টগ্রাম জেলার আসন"
+              },
+              "02_cumilla": {
+                "category_key": "cumilla",
+                "name": "কুমিল্লা জেলার আসন"
+              },
+              "03_feni": {
+                "category_key": "feni",
+                "name": "ফেনী জেলার আসন"
+              },
+              "04_coxsbazar": {
+                "category_key": "coxsbazar",
+                "name": "কক্সবাজার জেলার আসন"
+              },
+              "05_noakhali": {
+                "category_key": "noakhali",
+                "name": "নোয়াখালী জেলার আসন"
+              },
+              "06_lakshmipur": {
+                "category_key": "lakshmipur",
+                "name": "লক্ষ্মীপুর জেলার আসন"
+              },
+              "07_chandpur": {
+                "category_key": "chandpur",
+                "name": "চাঁদপুর জেলার আসন"
+              },
+              "08_brahmanbaria": {
+                "category_key": "brahmanbaria",
+                "name": "ব্রাহ্মণবাড়িয়া জেলার আসন"
+              },
+              "09_parbotto": {
+                "category_key": "parbotto",
+                "name": "পার্বত্য জেলার আসন"
+              }
+            },
+            "name": "চট্টগ্রাম বিভাগ"
+          },
+          "03_barishal": {
+            "districts": {
+              "01_barishal": {
+                "category_key": "barishal",
+                "name": "বরিশাল জেলার আসন"
+              },
+              "02_patuakhali": {
+                "category_key": "patuakhali",
+                "name": "পটুয়াখালী জেলার আসন"
+              },
+              "03_bhola": {
+                "category_key": "bhola",
+                "name": "ভোলা জেলার আসন"
+              },
+              "04_jhalokathi": {
+                "category_key": "jhalokathi",
+                "name": "ঝালকাঠি জেলার আসন"
+              },
+              "05_pirojpur": {
+                "category_key": "pirojpur",
+                "name": "পিরোজপুর জেলার আসন"
+              },
+              "06_barguna": {
+                "category_key": "barguna",
+                "name": "বরগুনা জেলার আসন"
+              }
+            },
+            "name": "বরিশাল বিভাগ"
+          },
+          "04_rajshahi": {
+            "districts": {
+              "01_rajshahi": {
+                "category_key": "rajshahi",
+                "name": "রাজশাহী জেলার আসন"
+              },
+              "02_naogaon": {
+                "category_key": "naogaon",
+                "name": "নওগাঁ জেলার আসন"
+              },
+              "03_chapainawabganj": {
+                "category_key": "chapainawabganj",
+                "name": "চাঁপাইনবাবগঞ্জ জেলার আসন"
+              },
+              "04_bogura": {
+                "category_key": "bogura",
+                "name": "বগুড়া জেলার আসন"
+              },
+              "05_joypurhat": {
+                "category_key": "joypurhat",
+                "name": "জয়পুরহাট জেলার আসন"
+              },
+              "06_natore": {
+                "category_key": "natore",
+                "name": "নাটোর জেলার আসন"
+              },
+              "07_sirajganj": {
+                "category_key": "sirajganj",
+                "name": "সিরাজগঞ্জ জেলার আসন"
+              },
+              "08_pabna": {
+                "category_key": "pabna",
+                "name": "পাবনা জেলার আসন"
+              }
+            },
+            "name": "রাজশাহী বিভাগ"
+          },
+          "05_khulna": {
+            "districts": {
+              "01_khulna": {
+                "category_key": "khulna",
+                "name": "খুলনা জেলার আসন"
+              },
+              "02_bagerhat": {
+                "category_key": "bagerhat",
+                "name": "বাগেরহাট জেলার আসন"
+              },
+              "03_chuadanga": {
+                "category_key": "chuadanga",
+                "name": "চুয়াডাঙ্গা জেলার আসন"
+              },
+              "04_jessore": {
+                "category_key": "jessore",
+                "name": "যশোর জেলার আসন"
+              },
+              "05_jhenaidah": {
+                "category_key": "jhenaidah",
+                "name": "ঝিনাইদহ জেলার আসন"
+              },
+              "06_satkhira": {
+                "category_key": "satkhira",
+                "name": "সাতক্ষীরা জেলার আসন"
+              },
+              "07_magura": {
+                "category_key": "magura",
+                "name": "মাগুরা জেলার আসন"
+              },
+              "08_meherpur": {
+                "category_key": "meherpur",
+                "name": "মেহেরপুর জেলার আসন"
+              },
+              "09_narail": {
+                "category_key": "narail",
+                "name": "নড়াইল জেলার আসন"
+              },
+              "10_kushtia": {
+                "category_key": "kushtia",
+                "name": "কুষ্টিয়া জেলার আসন"
+              }
+            },
+            "name": "খুলনা বিভাগ"
+          },
+          "06_sylhet": {
+            "districts": {
+              "01_sylhet": {
+                "category_key": "sylhet",
+                "name": "সিলেট জেলার আসন"
+              },
+              "02_moulvibazar": {
+                "category_key": "moulvibazar",
+                "name": "মৌলভীবাজার জেলার আসন"
+              },
+              "03_habiganj": {
+                "category_key": "habiganj",
+                "name": "হবিগঞ্জ জেলার আসন"
+              },
+              "04_sunamganj": {
+                "category_key": "sunamganj",
+                "name": "সুনামগঞ্জ জেলার আসন"
+              }
+            },
+            "name": "সিলেট বিভাগ"
+          },
+          "07_mymensingh": {
+            "districts": {
+              "01_mymensingh": {
+                "category_key": "mymensingh",
+                "name": "ময়মনসিংহ জেলার আসন"
+              },
+              "02_jamalpur": {
+                "category_key": "jamalpur",
+                "name": "জামালপুর জেলার আসন"
+              },
+              "03_netrokona": {
+                "category_key": "netrokona",
+                "name": "নেত্রকোনা জেলার আসন"
+              },
+              "04_sherpur": {
+                "category_key": "sherpur",
+                "name": "শেরপুর জেলার আসন"
+              }
+            },
+            "name": "ময়মনসিংহ বিভাগ"
+          },
+          "08_rangpur": {
+            "districts": {
+              "01_rangpur": {
+                "category_key": "rangpur",
+                "name": "রংপুর জেলার আসন"
+              },
+              "02_dinajpur": {
+                "category_key": "dinajpur",
+                "name": "দিনাজপুর জেলার আসন"
+              },
+              "03_lalmonirhat": {
+                "category_key": "lalmonirhat",
+                "name": "লালমনিরহাট জেলার আসন"
+              },
+              "04_nilphamari": {
+                "category_key": "nilphamari",
+                "name": "নীলফামারী জেলার আসন"
+              },
+              "05_kurigram": {
+                "category_key": "kurigram",
+                "name": "কুড়িগ্রাম জেলার আসন"
+              },
+              "06_gaibandha": {
+                "category_key": "gaibandha",
+                "name": "গাইবান্ধা জেলার আসন"
+              },
+              "07_thakurgaon": {
+                "category_key": "thakurgaon",
+                "name": "ঠাকুরগাঁও জেলার আসন"
+              },
+              "08_panchagarh": {
+                "category_key": "panchagarh",
+                "name": "পঞ্চগড় জেলার আসন"
+              }
+            },
+            "name": "রংপুর বিভাগ"
+          }
+        }
+      },
+      "03_iab": {
+        "divisions": {
+          "01_dhaka": {
+            "districts": {
+              "01_dhaka": {
+                "category_key": "dhaka",
+                "name": "ঢাকা জেলার আসন"
+              },
+              "02_faridpur": {
+                "category_key": "faridpur",
+                "name": "ফরিদপুর জেলার আসন"
+              },
+              "03_gazipur": {
+                "category_key": "gazipur",
+                "name": "গাজীপুর জেলার আসন"
+              },
+              "04_gopalganj": {
+                "category_key": "gopalganj",
+                "name": "গোপালগঞ্জ জেলার আসন"
+              },
+              "05_kishoreganj": {
+                "category_key": "kishoreganj",
+                "name": "কিশোরগঞ্জ জেলার আসন"
+              },
+              "06_madaripur": {
+                "category_key": "madaripur",
+                "name": "মাদারীপুর জেলার আসন"
+              },
+              "07_manikganj": {
+                "category_key": "manikganj",
+                "name": "মানিকগঞ্জ জেলার আসন"
+              },
+              "08_munshiganj": {
+                "category_key": "munshiganj",
+                "name": "মুন্সিগঞ্জ জেলার আসন"
+              },
+              "09_narayanganj": {
+                "category_key": "narayanganj",
+                "name": "নারায়ণগঞ্জ জেলার আসন"
+              },
+              "10_narsingdi": {
+                "category_key": "narsingdi",
+                "name": "নরসিংদী জেলার আসন"
+              },
+              "11_rajbari": {
+                "category_key": "rajbari",
+                "name": "রাজবাড়ী জেলার আসন"
+              },
+              "12_shariatpur": {
+                "category_key": "shariatpur",
+                "name": "শরীয়তপুর জেলার আসন"
+              },
+              "13_tangail": {
+                "category_key": "tangail",
+                "name": "টাঙ্গাইল জেলার আসন"
+              }
+            },
+            "name": "ঢাকা বিভাগ"
+          },
+          "02_chattogram": {
+            "districts": {
+              "01_chattogram": {
+                "category_key": "chattogram",
+                "name": "চট্টগ্রাম জেলার আসন"
+              },
+              "02_cumilla": {
+                "category_key": "cumilla",
+                "name": "কুমিল্লা জেলার আসন"
+              },
+              "03_feni": {
+                "category_key": "feni",
+                "name": "ফেনী জেলার আসন"
+              },
+              "04_coxsbazar": {
+                "category_key": "coxsbazar",
+                "name": "কক্সবাজার জেলার আসন"
+              },
+              "05_noakhali": {
+                "category_key": "noakhali",
+                "name": "নোয়াখালী জেলার আসন"
+              },
+              "06_lakshmipur": {
+                "category_key": "lakshmipur",
+                "name": "লক্ষ্মীপুর জেলার আসন"
+              },
+              "07_chandpur": {
+                "category_key": "chandpur",
+                "name": "চাঁদপুর জেলার আসন"
+              },
+              "08_brahmanbaria": {
+                "category_key": "brahmanbaria",
+                "name": "ব্রাহ্মণবাড়িয়া জেলার আসন"
+              },
+              "09_parbotto": {
+                "category_key": "parbotto",
+                "name": "পার্বত্য জেলার আসন"
+              }
+            },
+            "name": "চট্টগ্রাম বিভাগ"
+          },
+          "03_barishal": {
+            "districts": {
+              "01_barishal": {
+                "category_key": "barishal",
+                "name": "বরিশাল জেলার আসন"
+              },
+              "02_patuakhali": {
+                "category_key": "patuakhali",
+                "name": "পটুয়াখালী জেলার আসন"
+              },
+              "03_bhola": {
+                "category_key": "bhola",
+                "name": "ভোলা জেলার আসন"
+              },
+              "04_jhalokathi": {
+                "category_key": "jhalokathi",
+                "name": "ঝালকাঠি জেলার আসন"
+              },
+              "05_pirojpur": {
+                "category_key": "pirojpur",
+                "name": "পিরোজপুর জেলার আসন"
+              },
+              "06_barguna": {
+                "category_key": "barguna",
+                "name": "বরগুনা জেলার আসন"
+              }
+            },
+            "name": "বরিশাল বিভাগ"
+          },
+          "04_rajshahi": {
+            "districts": {
+              "01_rajshahi": {
+                "category_key": "rajshahi",
+                "name": "রাজশাহী জেলার আসন"
+              },
+              "02_naogaon": {
+                "category_key": "naogaon",
+                "name": "নওগাঁ জেলার আসন"
+              },
+              "03_chapainawabganj": {
+                "category_key": "chapainawabganj",
+                "name": "চাঁপাইনবাবগঞ্জ জেলার আসন"
+              },
+              "04_bogura": {
+                "category_key": "bogura",
+                "name": "বগুড়া জেলার আসন"
+              },
+              "05_joypurhat": {
+                "category_key": "joypurhat",
+                "name": "জয়পুরহাট জেলার আসন"
+              },
+              "06_natore": {
+                "category_key": "natore",
+                "name": "নাটোর জেলার আসন"
+              },
+              "07_sirajganj": {
+                "category_key": "sirajganj",
+                "name": "সিরাজগঞ্জ জেলার আসন"
+              },
+              "08_pabna": {
+                "category_key": "pabna",
+                "name": "পাবনা জেলার আসন"
+              }
+            },
+            "name": "রাজশাহী বিভাগ"
+          },
+          "05_khulna": {
+            "districts": {
+              "01_khulna": {
+                "category_key": "khulna",
+                "name": "খুলনা জেলার আসন"
+              },
+              "02_bagerhat": {
+                "category_key": "bagerhat",
+                "name": "বাগেরহাট জেলার আসন"
+              },
+              "03_chuadanga": {
+                "category_key": "chuadanga",
+                "name": "চুয়াডাঙ্গা জেলার আসন"
+              },
+              "04_jessore": {
+                "category_key": "jessore",
+                "name": "যশোর জেলার আসন"
+              },
+              "05_jhenaidah": {
+                "category_key": "jhenaidah",
+                "name": "ঝিনাইদহ জেলার আসন"
+              },
+              "06_satkhira": {
+                "category_key": "satkhira",
+                "name": "সাতক্ষীরা জেলার আসন"
+              },
+              "07_magura": {
+                "category_key": "magura",
+                "name": "মাগুরা জেলার আসন"
+              },
+              "08_meherpur": {
+                "category_key": "meherpur",
+                "name": "মেহেরপুর জেলার আসন"
+              },
+              "09_narail": {
+                "category_key": "narail",
+                "name": "নড়াইল জেলার আসন"
+              },
+              "10_kushtia": {
+                "category_key": "kushtia",
+                "name": "কুষ্টিয়া জেলার আসন"
+              }
+            },
+            "name": "খুলনা বিভাগ"
+          },
+          "06_sylhet": {
+            "districts": {
+              "01_sylhet": {
+                "category_key": "sylhet",
+                "name": "সিলেট জেলার আসন"
+              },
+              "02_moulvibazar": {
+                "category_key": "moulvibazar",
+                "name": "মৌলভীবাজার জেলার আসন"
+              },
+              "03_habiganj": {
+                "category_key": "habiganj",
+                "name": "হবিগঞ্জ জেলার আসন"
+              },
+              "04_sunamganj": {
+                "category_key": "sunamganj",
+                "name": "সুনামগঞ্জ জেলার আসন"
+              }
+            },
+            "name": "সিলেট বিভাগ"
+          },
+          "07_mymensingh": {
+            "districts": {
+              "01_mymensingh": {
+                "category_key": "mymensingh",
+                "name": "ময়মনসিংহ জেলার আসন"
+              },
+              "02_jamalpur": {
+                "category_key": "jamalpur",
+                "name": "জামালপুর জেলার আসন"
+              },
+              "03_netrokona": {
+                "category_key": "netrokona",
+                "name": "নেত্রকোনা জেলার আসন"
+              },
+              "04_sherpur": {
+                "category_key": "sherpur",
+                "name": "শেরপুর জেলার আসন"
+              }
+            },
+            "name": "ময়মনসিংহ বিভাগ"
+          },
+          "08_rangpur": {
+            "districts": {
+              "01_rangpur": {
+                "category_key": "rangpur",
+                "name": "রংপুর জেলার আসন"
+              },
+              "02_dinajpur": {
+                "category_key": "dinajpur",
+                "name": "দিনাজপুর জেলার আসন"
+              },
+              "03_lalmonirhat": {
+                "category_key": "lalmonirhat",
+                "name": "লালমনিরহাট জেলার আসন"
+              },
+              "04_nilphamari": {
+                "category_key": "nilphamari",
+                "name": "নীলফামারী জেলার আসন"
+              },
+              "05_kurigram": {
+                "category_key": "kurigram",
+                "name": "কুড়িগ্রাম জেলার আসন"
+              },
+              "06_gaibandha": {
+                "category_key": "gaibandha",
+                "name": "গাইবান্ধা জেলার আসন"
+              },
+              "07_thakurgaon": {
+                "category_key": "thakurgaon",
+                "name": "ঠাকুরগাঁও জেলার আসন"
+              },
+              "08_panchagarh": {
+                "category_key": "panchagarh",
+                "name": "পঞ্চগড় জেলার আসন"
+              }
+            },
+            "name": "রংপুর বিভাগ"
+          }
+        }
+      },
+      "04_ncp": {
+        "divisions": {
+          "01_dhaka": {
+            "districts": {
+              "01_dhaka": {
+                "category_key": "dhaka",
+                "name": "ঢাকা জেলার আসন"
+              },
+              "03_gazipur": {
+                "category_key": "gazipur",
+                "name": "গাজীপুর জেলার আসন"
+              },
+              "08_munshiganj": {
+                "category_key": "munshiganj",
+                "name": "মুন্সিগঞ্জ জেলার আসন"
+              },
+              "09_narayanganj": {
+                "category_key": "narayanganj",
+                "name": "নারায়ণগঞ্জ জেলার আসন"
+              },
+              "10_narsingdi": {
+                "category_key": "narsingdi",
+                "name": "নরসিংদী জেলার আসন"
+              },
+              "13_tangail": {
+                "category_key": "tangail",
+                "name": "টাঙ্গাইল জেলার আসন"
+              }
+            },
+            "name": "ঢাকা বিভাগ"
+          },
+          "02_chattogram": {
+            "districts": {
+              "01_chattogram": {
+                "category_key": "chattogram",
+                "name": "চট্টগ্রাম জেলার আসন"
+              },
+              "02_cumilla": {
+                "category_key": "cumilla",
+                "name": "কুমিল্লা জেলার আসন"
+              },
+              "05_noakhali": {
+                "category_key": "noakhali",
+                "name": "নোয়াখালী জেলার আসন"
+              },
+              "06_lakshmipur": {
+                "category_key": "lakshmipur",
+                "name": "লক্ষ্মীপুর জেলার আসন"
+              },
+              "08_brahmanbaria": {
+                "category_key": "brahmanbaria",
+                "name": "ব্রাহ্মণবাড়িয়া জেলার আসন"
+              }
+            },
+            "name": "চট্টগ্রাম বিভাগ"
+          },
+          "07_nymensingh": {
+            "districts": {
+              "03_netrokona": {
+                "category_key": "netrokona",
+                "name": "নেত্রকোনা জেলার আসন"
+              }
+            },
+            "name": "ময়মনসিংহ বিভাগ"
+          },
+          "08_rangpur": {
+            "districts": {
+              "01_rangpur": {
+                "category_key": "rangpur",
+                "name": "রংপুর জেলার আসন"
+              },
+              "02_dinajpur": {
+                "category_key": "dinajpur",
+                "name": "দিনাজপুর জেলার আসন"
+              },
+              "07_thakurgaon": {
+                "category_key": "thakurgaon",
+                "name": "ঠাকুরগাঁও জেলার আসন"
+              },
+              "08_panchagarh": {
+                "category_key": "panchagarh",
+                "name": "পঞ্চগড় জেলার আসন"
+              }
+            },
+            "name": "রংপুর বিভাগ"
+          }
+        }
+      },
+      "08_swatontro": {
+        "divisions": {
+          "01_dhaka": {
+            "districts": {
+              "01_dhaka": {
+                "category_key": "dhaka",
+                "name": "ঢাকা জেলার আসন"
+              },
+              "04_gopalganj": {
+                "category_key": "gopalganj",
+                "name": "গোপালগঞ্জ জেলার আসন"
+              },
+              "05_kishoreganj": {
+                "category_key": "kishoreganj",
+                "name": "কিশোরগঞ্জ জেলার আসন"
+              },
+              "06_madaripur": {
+                "category_key": "madaripur",
+                "name": "মাদারীপুর জেলার আসন"
+              },
+              "07_manikganj": {
+                "category_key": "manikganj",
+                "name": "মানিকগঞ্জ জেলার আসন"
+              },
+              "08_munshiganj": {
+                "category_key": "munshiganj",
+                "name": "মুন্সিগঞ্জ জেলার আসন"
+              },
+              "09_narayanganj": {
+                "category_key": "narayanganj",
+                "name": "নারায়ণগঞ্জ জেলার আসন"
+              },
+              "13_tangail": {
+                "category_key": "tangail",
+                "name": "টাঙ্গাইল জেলার আসন"
+              }
+            },
+            "name": "ঢাকা বিভাগ"
+          },
+          "02_chattogram": {
+            "districts": {
+              "01_chattogram": {
+                "category_key": "chattogram",
+                "name": "চট্টগ্রাম জেলার আসন"
+              },
+              "02_cumilla": {
+                "category_key": "cumilla",
+                "name": "কুমিল্লা জেলার আসন"
+              },
+              "05_noakhali": {
+                "category_key": "noakhali",
+                "name": "নোয়াখালী জেলার আসন"
+              },
+              "07_chandpur": {
+                "category_key": "chandpur",
+                "name": "চাঁদপুর জেলার আসন"
+              },
+              "08_brahmanbaria": {
+                "category_key": "brahmanbaria",
+                "name": "ব্রাহ্মণবাড়িয়া জেলার আসন"
+              }
+            },
+            "name": "চট্টগ্রাম বিভাগ"
+          },
+          "03_barishal": {
+            "districts": {
+              "02_patuakhali": {
+                "category_key": "patuakhali",
+                "name": "পটুয়াখালী জেলার আসন"
+              },
+              "05_pirojpur": {
+                "category_key": "pirojpur",
+                "name": "পিরোজপুর জেলার আসন"
+              }
+            },
+            "name": "বরিশাল বিভাগ"
+          },
+          "04_rajshahi": {
+            "districts": {
+              "02_naogaon": {
+                "category_key": "naogaon",
+                "name": "নওগাঁ জেলার আসন"
+              }
+            },
+            "name": "রাজশাহী বিভাগ"
+          },
+          "05_khulna": {
+            "districts": {
+              "05_jhenaidah": {
+                "category_key": "jhenaidah",
+                "name": "ঝিনাইদহ জেলার আসন"
+              },
+              "09_narail": {
+                "category_key": "narail",
+                "name": "নড়াইল জেলার আসন"
+              }
+            },
+            "name": "খুলনা বিভাগ"
+          },
+          "06_sylhet": {
+            "districts": {
+              "02_moulvibazar": {
+                "category_key": "moulvibazar",
+                "name": "মৌলভীবাজার জেলার আসন"
+              },
+              "03_habiganj": {
+                "category_key": "habiganj",
+                "name": "হবিগঞ্জ জেলার আসন"
+              }
+            },
+            "name": "সিলেট বিভাগ"
+          },
+          "07_mymensingh": {
+            "districts": {
+              "01_mymensingh": {
+                "category_key": "mymensingh",
+                "name": "ময়মনসিংহ জেলার আসন"
+              },
+              "04_sherpur": {
+                "category_key": "sherpur",
+                "name": "শেরপুর জেলার আসন"
+              }
+            },
+            "name": "ময়মনসিংহ বিভাগ"
+          },
+          "08_rangpur": {
+            "districts": {
+              "01_rangpur": {
+                "category_key": "rangpur",
+                "name": "রংপুর জেলার আসন"
+              }
+            },
+            "name": "রংপুর বিভাগ"
+          }
+        }
+      },
+      "09_langol": {
+        "divisions": {
+          "02_chattogram": {
+            "districts": {
+              "05_noakhali": {
+                "category_key": "noakhali",
+                "name": "নোয়াখালী জেলার আসন"
+              }
+            },
+            "name": "চট্টগ্রাম বিভাগ"
+          },
+          "03_barishal": {
+            "districts": {
+              "01_barishal": {
+                "category_key": "barishal",
+                "name": "বরিশাল জেলার আসন"
+              }
+            },
+            "name": "বরিশাল বিভাগ"
+          },
+          "08_rangpur": {
+            "districts": {
+              "01_rangpur": {
+                "category_key": "rangpur",
+                "name": "রংপুর জেলার আসন"
+              },
+              "03_lalmonirhat": {
+                "category_key": "lalmonirhat",
+                "name": "লালমনিরহাট জেলার আসন"
+              },
+              "04_nilphamari": {
+                "category_key": "nilphamari",
+                "name": "নীলফামারী জেলার আসন"
+              },
+              "05_kurigram": {
+                "category_key": "kurigram",
+                "name": "কুড়িগ্রাম জেলার আসন"
+              }
+            },
+            "name": "রংপুর বিভাগ"
+          }
+        }
+      },
+      "10_sunni": {
+        "divisions": {
+          "01_dhaka": {
+            "districts": {
+              "01_dhaka": {
+                "category_key": "dhaka",
+                "name": "ঢাকা জেলার আসন"
+              },
+              "05_kishoreganj": {
+                "category_key": "kishoreganj",
+                "name": "কিশোরগঞ্জ জেলার আসন"
+              }
+            },
+            "name": "ঢাকা বিভাগ"
+          },
+          "02_chattogram": {
+            "districts": {
+              "01_chattogram": {
+                "category_key": "chattogram",
+                "name": "চট্টগ্রাম জেলার আসন"
+              },
+              "02_cumilla": {
+                "category_key": "cumilla",
+                "name": "কুমিল্লা জেলার আসন"
+              },
+              "07_chandpur": {
+                "category_key": "chandpur",
+                "name": "চাঁদপুর জেলার আসন"
+              },
+              "08_brahmanbaria": {
+                "category_key": "brahmanbaria",
+                "name": "ব্রাহ্মণবাড়িয়া জেলার আসন"
+              }
+            },
+            "name": "চট্টগ্রাম বিভাগ"
+          },
+          "06_sylhet": {
+            "districts": {
+              "03_habiganj": {
+                "category_key": "habiganj",
+                "name": "হবিগঞ্জ জেলার আসন"
+              }
+            },
+            "name": "সিলেট বিভাগ"
+          }
+        }
+      },
+      "11_bnp_jot": {
+        "divisions": {
+          "03_truck": {
+            "districts": {
+              "01_truck_dhaka": {
+                "category_key": "truck_dhaka",
+                "name": "ঢাকা বিভাগের আসন"
+              },
+              "02_truck_ctg": {
+                "category_key": "truck_ctg",
+                "name": "চট্টগ্রাম বিভাগের আসন"
+              },
+              "03_truck_barisal": {
+                "category_key": "truck_barisal",
+                "name": "বরিশাল বিভাগের আসন"
+              },
+              "08_truck_rangpur": {
+                "category_key": "truck_rangpur",
+                "name": "রংপুর বিভাগের আসন"
+              }
+            },
+            "name": "গণঅধিকার পরিষদ"
+          },
+          "05_mathal": {
+            "districts": {
+              "01_mathal_brah": {
+                "category_key": "mathal_brah",
+                "name": "ব্রাহ্মণবাড়িয়া জেলার আসন"
+              }
+            },
+            "name": "গণসংহতি আন্দোলন"
+          },
+          "06_jomiot": {
+            "districts": {
+              "01_jomiot_syl": {
+                "category_key": "jomiot_syl",
+                "name": "সিলেট"
+              },
+              "02_jomiot_nara": {
+                "category_key": "jomiot_nara",
+                "name": "নারায়নগঞ্জ"
+              },
+              "03_jomiot_nilpha": {
+                "category_key": "jomiot_nilpha",
+                "name": "নীলফামারী"
+              },
+              "04_jomiot_brahmn": {
+                "category_key": "jomiot_brahmn",
+                "name": "ব্রাহ্মণবাড়িয়া"
+              }
+            },
+            "name": "জমিয়তে উলামায়ে ইসলাম"
+          }
+        }
+      },
+      "12_islamidol": {
+        "divisions": {
+          "01_khelafotm": {
+            "districts": {
+              "01_ghori_dhaka": {
+                "category_key": "ghori_dhaka",
+                "name": "ঢাকা বিভাগ"
+              },
+              "02_ghori_ctg": {
+                "category_key": "ghori_ctg",
+                "name": "চট্টগ্রাম বিভাগ"
+              },
+              "06_ghori_syl": {
+                "category_key": "ghori_syl",
+                "name": "সিলেট বিভাগ"
+              }
+            },
+            "name": "খেলাফত মজলিস"
+          },
+          "02_bdkhelafot": {
+            "districts": {
+              "01_khelafot_dhaka": {
+                "category_key": "dhaka_khelafot",
+                "name": "ঢাকা বিভাগ"
+              },
+              "02_chattogram_khelafot": {
+                "category_key": "chattogram_khelafot",
+                "name": "চট্টগ্রাম বিভাগ"
+              },
+              "04_rajshahi_khelafot": {
+                "category_key": "rajshahi_khelafot",
+                "name": "রাজশাহী বিভাগ"
+              },
+              "06_sylhet_khelafot": {
+                "category_key": "sylhet_khelafot",
+                "name": "সিলেট বিভাগ"
+              },
+              "07_mymen_khelafot": {
+                "category_key": "mymen_khelafot",
+                "name": "ময়মনসিংহ বিভাগ"
+              }
+            },
+            "name": "বাংলাদেশ খেলাফত মজলিস"
+          },
+          "04_ldp": {
+            "districts": {
+              "01_ctg_ldp": {
+                "category_key": "ctg_ldp",
+                "name": "চট্টগ্রাম বিভাগ"
+              },
+              "05_mymen_ldp": {
+                "category_key": "mymen_ldp",
+                "name": "ময়মনসিংহ বিভাগ"
+              }
+            },
+            "name": "এলডিপি পার্টি - ছাতা"
+          },
+          "06_bdp": {
+            "districts": {
+              "01_fulcopy_vola": {
+                "category_key": "fulcopy_vola",
+                "name": "নিজামুল হক নাঈম"
+              },
+              "02_fulcopy_mym": {
+                "category_key": "fulcopy_mym",
+                "name": "আনোয়ারুল ইসলাম চান"
+              }
+            },
+            "name": "বাংলাদেশ ডেভেলপমেন্ট পার্টি"
+          }
+        }
+      }
+    }
+  }
+}
