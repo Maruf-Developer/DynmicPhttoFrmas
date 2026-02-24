@@ -13,7 +13,7 @@
       "show": true
     },
     "poster_control": {
-      "need_user_photo": false
+      "need_user_photo": true
     }
   },
   "frames": {
