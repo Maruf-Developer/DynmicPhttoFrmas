@@ -22,43 +22,43 @@
         "api_file": "bangla.txt",
         "name": "২১শে ফেব্রুয়ারী",
         "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/feb21.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/feb21.webp"
       },
       "02": {
         "api_file": "bangla.txt",
         "name": "২ে মার্চ",
         "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/march26.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/march26.webp"
       },
       "03": {
         "api_file": "bangla.txt",
         "name": "১৬ ডিসেম্বর",
         "suffix": "3",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dec16.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/dec16.webp"
       },
       "04": {
         "api_file": "bangla.txt",
         "name": "পহেলা বৈশাখ",
         "suffix": "4",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/pohela.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/pohela.webp"
       },
       "07": {
         "api_file": "bangla.txt",
         "name": "বিএনপি",
         "suffix": "7",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/bnp.webp"
       },
       "08": {
         "api_file": "bangla.txt",
         "name": "আওয়ামী লীগ",
         "suffix": "8",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/awami.webp"
       },
       "09": {
         "api_file": "islamic.txt",
         "name": "মাহে রমজান",
         "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanPhotFrmes/temp/ramadan.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/GlobalFestivlFrams\/refs\/heads\/main\/RamadanPhotFrmes\/temp\/ramadan.webp"
       }
     },
     "famous_categories": {
@@ -66,73 +66,73 @@
         "api_file": "global.txt",
         "name": "Love",
         "suffix": "22",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/love.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/love.webp"
       },
       "11": {
         "api_file": "global.txt",
         "name": "Miss You",
         "suffix": "32",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/miss.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/miss.webp"
       },
       "12": {
         "api_file": "global.txt",
         "name": "Nature",
         "suffix": "34",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/nature.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/nature.webp"
       },
       "01": {
         "api_file": "global.txt",
         "name": "Snowfall",
         "suffix": "27",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/snowfall.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/snowfall.webp"
       },
       "02": {
         "api_file": "global.txt",
         "name": "Peacock",
         "suffix": "7",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/peacock.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/peacock.webp"
       },
       "03": {
         "api_file": "global.txt",
         "name": "Sunset",
         "suffix": "28",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/sunset.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/sunset.webp"
       },
       "04": {
         "api_file": "global.txt",
         "name": "Waterfall",
         "suffix": "31",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/waterfall.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/waterfall.webp"
       },
       "05": {
         "api_file": "global.txt",
         "name": "Autumn",
         "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/autumn.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/autumn.webp"
       },
       "06": {
         "api_file": "global.txt",
         "name": "Book",
         "suffix": "14",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/book.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/book.webp"
       },
       "07": {
         "api_file": "global.txt",
         "name": "Garden",
         "suffix": "17",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/garden.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/garden.webp"
       },
       "08": {
         "api_file": "global.txt",
         "name": "Hill",
         "suffix": "19",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/hill.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/hill.webp"
       },
       "09": {
         "api_file": "global.txt",
         "name": "Kids",
         "suffix": "5",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/kids.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/kids.webp"
       }
     },
     "featured_categories": {
@@ -140,55 +140,55 @@
         "api_file": "global.txt",
         "name": "Tajmahal",
         "suffix": "29",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/tajmahal.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/tajmahal.webp"
       },
       "02": {
         "api_file": "global.txt",
         "name": "Beach",
         "suffix": "26",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/beach.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/beach.webp"
       },
       "03": {
         "api_file": "global.txt",
         "name": "Hall",
         "suffix": "18",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/hall.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/hall.webp"
       },
       "04": {
         "api_file": "global.txt",
         "name": "Hoarding",
         "suffix": "20",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/hoarding.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/hoarding.webp"
       },
       "05": {
         "api_file": "global.txt",
         "name": "Lotus",
         "suffix": "6",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/lotus.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/lotus.webp"
       },
       "06": {
         "api_file": "global.txt",
         "name": "Rose",
         "suffix": "25",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/rose.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/rose.webp"
       },
       "07": {
         "api_file": "global.txt",
         "name": "Morning",
         "suffix": "23",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/morning.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/morning.webp"
       },
       "08": {
         "api_file": "global.txt",
         "name": "Night",
         "suffix": "24",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/night.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/night.webp"
       },
       "09": {
         "api_file": "global.txt",
         "name": "Parachute",
         "suffix": "8",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/parachute.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/parachute.webp"
       }
     },
     "global_event": {
@@ -196,49 +196,49 @@
         "api_file": "event.txt",
         "name": "New Year",
         "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ny.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/ny.webp"
       },
       "02": {
         "api_file": "event.txt",
         "name": "Birthday",
         "suffix": "8",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/birthday.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/birthday.webp"
       },
       "03": {
         "api_file": "event.txt",
         "name": "Anniversary",
         "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/anniversary.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/anniversary.webp"
       },
       "04": {
         "api_file": "event.txt",
         "name": "Wedding",
         "suffix": "4",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/wedding.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/wedding.webp"
       },
       "05": {
         "api_file": "event.txt",
         "name": "Mothers Day",
         "suffix": "5",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/mothers.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/mothers.webp"
       },
       "06": {
         "api_file": "event.txt",
         "name": "Womens Day",
         "suffix": "6",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/women.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/women.webp"
       },
       "07": {
         "api_file": "event.txt",
         "name": "Friendship",
         "suffix": "3",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/friendship.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/friendship.webp"
       },
       "08": {
         "api_file": "event.txt",
         "name": "Valentine Day",
         "suffix": "7",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/valentine.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/valentine.webp"
       }
     },
     "india_categories": {
@@ -246,13 +246,13 @@
         "api_file": "india.txt",
         "name": "Republic",
         "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/repub.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/repub.webp"
       },
       "02": {
         "api_file": "india.txt",
         "name": "Independence",
         "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenind.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/indepenind.webp"
       }
     },
     "islamic_categories": {
@@ -260,31 +260,31 @@
         "api_file": "islamic.txt",
         "name": "Ramadan",
         "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ramadan.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/ramadan.webp"
       },
       "02": {
         "api_file": "islamic.txt",
         "name": "Eid Fitr",
         "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/fitr.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/fitr.webp"
       },
       "03": {
         "api_file": "islamic.txt",
         "name": "Eid Adha",
         "suffix": "3",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/adha.webp"
       },
       "04": {
         "api_file": "islamic.txt",
         "name": "Ashura",
         "suffix": "4",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ashura.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/ashura.webp"
       },
       "05": {
         "api_file": "islamic.txt",
         "name": "Islamic",
         "suffix": "5",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/islamic.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/islamic.webp"
       }
     },
     "pakistan_categories": {
@@ -292,13 +292,13 @@
         "api_file": "pakistan.txt",
         "name": "Independence",
         "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenpak.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/indepenpak.webp"
       },
       "02": {
         "api_file": "pakistan.txt",
         "name": "Defence",
         "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dfnc.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/dfnc.webp"
       }
     },
     "unique_categories": {
@@ -306,79 +306,79 @@
         "api_file": "global.txt",
         "name": "Mobile",
         "suffix": "33",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/mobile.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/mobile.webp"
       },
       "11": {
         "api_file": "global.txt",
         "name": "Bottle",
         "suffix": "12",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bottle.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/bottle.webp"
       },
       "12": {
         "api_file": "global.txt",
         "name": "Glass",
         "suffix": "11",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/glass.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/glass.webp"
       },
       "13": {
         "api_file": "global.txt",
         "name": "Coffee Cup",
         "suffix": "10",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/coffeecup.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/coffeecup.webp"
       },
       "01": {
         "api_file": "global.txt",
         "name": "Fire Text",
         "suffix": "16",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/firetext.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/firetext.webp"
       },
       "02": {
         "api_file": "global.txt",
         "name": "3D Frame",
         "suffix": "13",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/frame3d.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/frame3d.webp"
       },
       "03": {
         "api_file": "global.txt",
         "name": "T-Shirt",
         "suffix": "9",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/tshirt.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/tshirt.webp"
       },
       "04": {
         "api_file": "global.txt",
         "name": "Underwater",
         "suffix": "30",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/underwater.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/underwater.webp"
       },
       "05": {
         "api_file": "global.txt",
         "name": "Aquarium",
         "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/aquarium.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/aquarium.webp"
       },
       "06": {
         "api_file": "global.txt",
         "name": "Bubble",
         "suffix": "15",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bubble.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/bubble.webp"
       },
       "07": {
         "api_file": "global.txt",
         "name": "Butterfly",
         "suffix": "3",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/butterfly.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/butterfly.webp"
       },
       "08": {
         "api_file": "global.txt",
         "name": "Jungle",
         "suffix": "21",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/jungle.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/jungle.webp"
       },
       "09": {
         "api_file": "global.txt",
         "name": "Glitter",
         "suffix": "4",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/glitter.webp"
+        "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/glitter.webp"
       }
     }
   },
@@ -387,25 +387,31 @@
       "api_file": "bangla.txt",
       "name": "২১শে ফেব্রুয়ারী",
       "suffix": "1",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/feb21.webp"
+      "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/feb21.webp"
     },
     "02": {
       "api_file": "event.txt",
       "name": "New Year",
       "suffix": "1",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ny.webp"
+      "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/ny.webp"
     },
     "03": {
       "api_file": "islamic.txt",
       "name": "মাহে রমজান",
       "suffix": "1",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanPhotFrmes/temp/ramadan.webp"
+      "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/GlobalFestivlFrams\/refs\/heads\/main\/RamadanPhotFrmes\/temp\/ramadan.webp"
     },
     "04": {
       "api_file": "bangla.txt",
       "name": "২৬শে মার্চ",
       "suffix": "2",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/march26.webp"
+      "thumb": "https:\/\/raw.githubusercontent.com\/Maruf-Developer\/DynmicPhttoFrmas\/refs\/heads\/main\/thumb_sm\/march26.webp"
+    },
+    "5": {
+      "api_file": "ggggg",
+      "name": "Mohammad Maruf Hasan",
+      "suffix": "5",
+      "thumb": "https:\/\/gggh.webp"
     }
   }
 }
