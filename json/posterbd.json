@@ -424,6 +424,12 @@
       "name": "gyu",
       "suffix": "5",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/vgg"
+    },
+    "05": {
+      "api_file": "test.txt",
+      "name": "testg",
+      "suffix": "1",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/tyyg.webp"
     }
   }
 }
