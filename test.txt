@@ -1,5 +1,7 @@
 {
   "square1": [
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/test/t1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/test/t1_thumb.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/EkusheFebPhotFrms/squr/squr1_thumb.webp",
