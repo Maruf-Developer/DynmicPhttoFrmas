@@ -59,18 +59,6 @@
         "name": "মাহে রমজান",
         "suffix": "1",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanPhotFrmes/temp/ramadan.webp"
-      },
-      "55": {
-        "api_file": "gh",
-        "name": "th",
-        "suffix": "696",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/ghh"
-      },
-      "28": {
-        "api_file": "ggh",
-        "name": "vgg",
-        "suffix": "66",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/vhh"
       }
     },
     "famous_categories": {
@@ -145,12 +133,6 @@
         "name": "Kids",
         "suffix": "5",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/kids.webp"
-      },
-      "633": {
-        "api_file": "gh",
-        "name": "ggh",
-        "suffix": "696",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/hh"
       }
     },
     "featured_categories": {
