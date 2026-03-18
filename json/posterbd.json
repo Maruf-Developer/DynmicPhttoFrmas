@@ -388,6 +388,18 @@
       "name": "২১শে ফেব্রুয়ারী",
       "suffix": "1",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/feb21.webp"
+    },
+    "04": {
+      "api_file": "poster.txt",
+      "name": "২৬শে মার্চ",
+      "suffix": "4",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/march26"
+    },
+    "09": {
+      "api_file": "poster.txt",
+      "name": "ঈদ মোবারক",
+      "suffix": "9",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/fitr.webp"
     }
   }
 }
