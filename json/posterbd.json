@@ -383,59 +383,11 @@
     }
   },
   "posters": {
-    "01": {
+    "51": {
       "api_file": "bangla.txt",
       "name": "২১শে ফেব্রুয়ারী",
       "suffix": "1",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/feb21.webp"
-    },
-    "02": {
-      "api_file": "event.txt",
-      "name": "New Year",
-      "suffix": "1",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ny.webp"
-    },
-    "03": {
-      "api_file": "islamic.txt",
-      "name": "মাহে রমজান",
-      "suffix": "1",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanPhotFrmes/temp/ramadan.webp"
-    },
-    "04": {
-      "api_file": "bangla.txt",
-      "name": "২৬শে মার্চ",
-      "suffix": "2",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/march26.webp"
-    },
-    "6": {
-      "api_file": "bhjjj",
-      "name": "hhhh",
-      "suffix": "1",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/vhjji"
-    },
-    "09": {
-      "api_file": "hji",
-      "name": "hyf",
-      "suffix": "5",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/hii"
-    },
-    "10": {
-      "api_file": "ghh",
-      "name": "gyu",
-      "suffix": "5",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/vgg"
-    },
-    "05": {
-      "api_file": "test.txt",
-      "name": "testg",
-      "suffix": "1",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/tyyg.webp"
-    },
-    "55": {
-      "api_file": "ghj",
-      "name": "ghh",
-      "suffix": "866",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb/vvb"
     }
   }
 }
