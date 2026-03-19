@@ -1,7 +1,7 @@
 {
   "controls": {
     "ads_control": {
-      "ad_interval": 25,
+      "ad_interval": 15,
       "show_ad": true
     },
     "msg_control": {
