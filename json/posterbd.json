@@ -10,7 +10,7 @@
     },
     "notice_control": {
       "message": "আপনার পছন্দের প্রার্থীর পোষ্টার না থাকলে আমাদের ফেসবুক গ্রুপে জানান।",
-      "show": true
+      "show": false
     },
     "poster_control": {
       "need_user_photo": false
