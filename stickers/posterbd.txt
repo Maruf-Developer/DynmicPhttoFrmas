@@ -24,5 +24,10 @@
   "Test": [
     "🇧🇩", 
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march1_thumb.webp"
+  ],
+"Flags": [
+    "🇧🇩", "🇵🇸", "🇸🇦", "🇵🇰", "🇹🇷", "🇮🇳", "🇺🇸", "🇬🇧", "🇦🇪", "🇶🇦", 
+    "🇲🇾", "🇮🇩", "🇧รู", "🇰🇼", "🇴🇲", "🇯🇴", "🇪🇬", "🇲🇦", "🇨🇦", "🇦🇺", 
+    "🇩🇪", "🇫🇷", "🇮🇹", "🇪🇸", "🇧🇷", "🇦🇷", "🇵🇹", "🇯🇵", "🇰🇷", "🇨🇳"
   ]
 }
