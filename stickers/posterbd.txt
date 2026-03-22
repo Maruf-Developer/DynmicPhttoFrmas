@@ -1,0 +1,15 @@
+{
+  "Emoji": [
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/stickers/emoji1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/stickers/emoji2.png"
+  ],
+  "Politics": [
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/stickers/neta1.png"
+  ],
+  "Funny": [
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/stickers/funny1.png"
+  ],
+  "Slogan": [
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/stickers/slogan1.png"
+  ]
+}
