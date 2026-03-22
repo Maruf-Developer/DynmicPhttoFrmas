@@ -1,10 +1,15 @@
 {
-  "Emoji": [
-    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march1_thumb.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march2_thumb.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3_thumb.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4_thumb.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march5_thumb.webp"
+ "Emojis": [
+    "😀", "😂", "😊", "😍", "🥰", "😘", "😎", "😭", "🥺", "😡", "🥳", "🤔", "😅", "😇", "😉", "😋", "😜", "🤩", "😔", "😱",
+    "👍", "👎", "✌️", "🤞", "🤝", "🙏", "👏", "🫶", "💪", "🤌", "👋", "👌", "👇", "👆", "👉", "👈",
+    "❤️", "💔", "💕", "💖", "💘", "💝", "💓", "💗", "🤍", "🖤"
+  ],
+  "Poster Icons": [
+    "📢", "📣", "🎤", "🗳️", "⚖️", "✊", "🇧🇩",
+    "🕋", "🕌", "☪️", "🤲", "📿", "🌙", 
+    "🛑", "❌", "✅", "☑️", "💯", "📌", "📍", "▶️",
+    "🎉", "🎊", "🎈", "🎂", "💐", "🌹", "🌺", "🏵️", "🌻",
+    "🎖️", "🏆", "🎀", "🎁", "✨", "🌟", "🔥", "👑"
   ],
   "Politics": [
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/stickers/neta1.png"
@@ -17,6 +22,7 @@
   ],
 
   "Test": [
+    "🇧🇩", 
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march1_thumb.webp"
   ]
 }
