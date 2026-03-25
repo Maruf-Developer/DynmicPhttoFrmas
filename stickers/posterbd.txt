@@ -32,6 +32,13 @@
   "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/bnp/bnp%20(24).webp"
   ],
 
+  "NCP": [
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/ncp/ncp%20(1).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/ncp/ncp%20(2).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/ncp/ncp%20(3).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/ncp/ncp%20(4).webp"
+  ],
+
   "Icons": [
     "📢", "📣", "🎤", "🗳️", "⚖️", "✊", "🇧🇩",
     "🕋", "🕌", "☪️", "🤲", "📿", "🌙", 
