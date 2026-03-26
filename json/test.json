@@ -425,5 +425,39 @@
         }
       ]
     }
+  },
+  "poster_categories": {
+    "test_poster": {
+      "name": "পোষ্টার টেস্টিং",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/anniversary.webp",
+      "items": {
+        "etest1": {
+          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid1_thumb.webp",
+          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid1.webp",
+          "elements": [
+            {
+              "x_percent": 0.2562510073184967,
+              "y_percent": 0.8948061466217041,
+              "w_percent": 0.46804124116897583,
+              "h_percent": 0.09899458289146423,
+              "isEditable": true,
+              "type": "text",
+              "placeholder": "USER_NAME",
+              "color": "#FFFFFF",
+              "font": "tiro_bangla"
+            },
+            {
+              "x_percent": 0.6192493438720703,
+              "y_percent": 0.5468825697898865,
+              "w_percent": 0.30927833914756775,
+              "h_percent": 0.23201856017112732,
+              "isEditable": true,
+              "type": "image",
+              "placeholder": "[USER_PHOTO]"
+            }
+          ]
+        }
+      }
+    }
   }
 }
