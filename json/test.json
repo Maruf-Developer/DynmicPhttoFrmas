@@ -184,6 +184,39 @@
           ]
         }
       }
+    },
+    "ggggdhj": {
+      "name": "fhkhdhgd",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "items": {
+        "t1": {
+          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3_thumb.webp",
+          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+          "elements": [
+            {
+              "x_percent": 0.3015443682670593,
+              "y_percent": 0.8913266658782959,
+              "w_percent": 0.46804124116897583,
+              "h_percent": 0.09899458289146423,
+              "isEditable": true,
+              "type": "text",
+              "placeholder": "USER_NAME",
+              "color": "#FFFFFF",
+              "font": "default",
+              "font_size": 24
+            },
+            {
+              "x_percent": 0.654608964920044,
+              "y_percent": 0.6102994680404663,
+              "w_percent": 0.30927833914756775,
+              "h_percent": 0.23201856017112732,
+              "isEditable": true,
+              "type": "image",
+              "placeholder": "[USER_PHOTO]"
+            }
+          ]
+        }
+      }
     }
   }
 }
