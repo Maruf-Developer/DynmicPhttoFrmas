@@ -259,6 +259,54 @@
           ]
         }
       }
+    },
+    "1": {
+      "name": "hghh",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "items": {
+        "g": {
+          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+          "elements": [
+            {
+              "x_percent": 0.25183936953544617,
+              "y_percent": 0.8844144344329834,
+              "w_percent": 0.46804124116897583,
+              "h_percent": 0.09899458289146423,
+              "isEditable": true,
+              "type": "text",
+              "placeholder": "USER_NAME",
+              "color": "#FFFFFF",
+              "font": "default",
+              "font_size": 24,
+              "cx_percent": 0.4858599901199341,
+              "cy_percent": 0.9339117407798767
+            },
+            {
+              "x_percent": 0.6603958606719971,
+              "y_percent": 0.6315678358078003,
+              "w_percent": 0.30927833914756775,
+              "h_percent": 0.23201856017112732,
+              "isEditable": true,
+              "type": "image",
+              "placeholder": "[USER_PHOTO]",
+              "cx_percent": 0.8150350451469421,
+              "cy_percent": 0.7475770711898804
+            },
+            {
+              "x_percent": 0.010072688572108746,
+              "y_percent": 0.36736348271369934,
+              "w_percent": 0.30927833914756775,
+              "h_percent": 0.23201856017112732,
+              "isEditable": true,
+              "type": "image",
+              "placeholder": "[USER_PHOTO]",
+              "cx_percent": 0.1647118628025055,
+              "cy_percent": 0.4833727478981018
+            }
+          ]
+        }
+      }
     }
   }
 }
