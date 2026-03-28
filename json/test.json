@@ -416,8 +416,30 @@
     "03": {
       "name": "টেস্টিবগ ৩",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-      "template_file": "json/test.txt",
-      "template_key": "03"
+      "api_file": "json/test.txt",
+      "suffix": "03"
+    }
+  },
+  "posters": {
+    "t": {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "elements": [
+        {
+          "x_percent": 0.2612777352333069,
+          "y_percent": 0.781730592250824,
+          "w_percent": 0.45766130089759827,
+          "h_percent": 0.18259629607200623,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.4901083707809448,
+          "cy_percent": 0.8730287551879883
+        }
+      ]
     }
   }
 }
