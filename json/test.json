@@ -66,386 +66,340 @@
         "suffix": "2",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/fitr.webp"
       }
-    }
-  },
-  "posters": {
-    "04": {
-      "api_file": "poster.txt",
-      "name": "২৬শে মার্চ",
-      "suffix": "4",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/march26.webp"
     },
-    "09": {
-      "api_file": "poster.txt",
-      "name": "ঈদ মোবারক",
-      "suffix": "9",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp"
+    "famous_categories": {
+      "01": {
+        "api_file": "global.txt",
+        "name": "Snowfall",
+        "suffix": "27",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/snowfall.webp"
+      },
+      "02": {
+        "api_file": "global.txt",
+        "name": "Peacock",
+        "suffix": "7",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/peacock.webp"
+      },
+      "03": {
+        "api_file": "global.txt",
+        "name": "Sunset",
+        "suffix": "28",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/sunset.webp"
+      },
+      "04": {
+        "api_file": "global.txt",
+        "name": "Waterfall",
+        "suffix": "31",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/waterfall.webp"
+      },
+      "05": {
+        "api_file": "global.txt",
+        "name": "Autumn",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/autumn.webp"
+      },
+      "06": {
+        "api_file": "global.txt",
+        "name": "Book",
+        "suffix": "14",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/book.webp"
+      },
+      "07": {
+        "api_file": "global.txt",
+        "name": "Garden",
+        "suffix": "17",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/garden.webp"
+      },
+      "08": {
+        "api_file": "global.txt",
+        "name": "Hill",
+        "suffix": "19",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/hill.webp"
+      },
+      "09": {
+        "api_file": "global.txt",
+        "name": "Kids",
+        "suffix": "5",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/kids.webp"
+      },
+      "10": {
+        "api_file": "global.txt",
+        "name": "Love",
+        "suffix": "22",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/love.webp"
+      },
+      "11": {
+        "api_file": "global.txt",
+        "name": "Miss You",
+        "suffix": "32",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/miss.webp"
+      },
+      "12": {
+        "api_file": "global.txt",
+        "name": "Nature",
+        "suffix": "34",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/nature.webp"
+      }
     },
-    "poster1test": {
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp",
-      "elements": [
-        {
-          "x_pos": 298.7861328125,
-          "y_pos": 1137.1162109375,
-          "width": 454,
-          "height": 128,
-          "isEditable": true,
-          "type": "text",
-          "placeholder": "[USER_NAME]",
-          "color": "#FFD700"
-        },
-        {
-          "x_pos": 583.5478515625,
-          "y_pos": 710.3701171875,
-          "width": 300,
-          "height": 300,
-          "isEditable": true,
-          "type": "image",
-          "placeholder": "[USER_PHOTO]"
-        }
-      ]
+    "featured_categories": {
+      "01": {
+        "api_file": "global.txt",
+        "name": "Tajmahal",
+        "suffix": "29",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/tajmahal.webp"
+      },
+      "02": {
+        "api_file": "global.txt",
+        "name": "Beach",
+        "suffix": "26",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/beach.webp"
+      },
+      "03": {
+        "api_file": "global.txt",
+        "name": "Hall",
+        "suffix": "18",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/hall.webp"
+      },
+      "04": {
+        "api_file": "global.txt",
+        "name": "Hoarding",
+        "suffix": "20",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/hoarding.webp"
+      },
+      "05": {
+        "api_file": "global.txt",
+        "name": "Lotus",
+        "suffix": "6",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/lotus.webp"
+      },
+      "06": {
+        "api_file": "global.txt",
+        "name": "Rose",
+        "suffix": "25",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/rose.webp"
+      },
+      "07": {
+        "api_file": "global.txt",
+        "name": "Morning",
+        "suffix": "23",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/morning.webp"
+      },
+      "08": {
+        "api_file": "global.txt",
+        "name": "Night",
+        "suffix": "24",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/night.webp"
+      },
+      "09": {
+        "api_file": "global.txt",
+        "name": "Parachute",
+        "suffix": "8",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/parachute.webp"
+      }
+    },
+    "global_event": {
+      "01": {
+        "api_file": "event.txt",
+        "name": "New Year",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ny.webp"
+      },
+      "02": {
+        "api_file": "event.txt",
+        "name": "Birthday",
+        "suffix": "8",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/birthday.webp"
+      },
+      "03": {
+        "api_file": "event.txt",
+        "name": "Anniversary",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/anniversary.webp"
+      },
+      "04": {
+        "api_file": "event.txt",
+        "name": "Wedding",
+        "suffix": "4",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/wedding.webp"
+      },
+      "05": {
+        "api_file": "event.txt",
+        "name": "Mothers Day",
+        "suffix": "5",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/mothers.webp"
+      },
+      "06": {
+        "api_file": "event.txt",
+        "name": "Womens Day",
+        "suffix": "6",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/women.webp"
+      },
+      "07": {
+        "api_file": "event.txt",
+        "name": "Friendship",
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/friendship.webp"
+      },
+      "08": {
+        "api_file": "event.txt",
+        "name": "Valentine Day",
+        "suffix": "7",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/valentine.webp"
+      }
+    },
+    "india_categories": {
+      "01": {
+        "api_file": "india.txt",
+        "name": "Republic",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/repub.webp"
+      },
+      "02": {
+        "api_file": "india.txt",
+        "name": "Independence",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenind.webp"
+      }
+    },
+    "islamic_categories": {
+      "01": {
+        "api_file": "islamic.txt",
+        "name": "Ramadan",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ramadan.webp"
+      },
+      "02": {
+        "api_file": "islamic.txt",
+        "name": "Eid Fitr",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/fitr.webp"
+      },
+      "03": {
+        "api_file": "islamic.txt",
+        "name": "Eid Adha",
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp"
+      },
+      "04": {
+        "api_file": "islamic.txt",
+        "name": "Ashura",
+        "suffix": "4",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/ashura.webp"
+      },
+      "05": {
+        "api_file": "islamic.txt",
+        "name": "Islamic",
+        "suffix": "5",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/islamic.webp"
+      }
+    },
+    "pakistan_categories": {
+      "01": {
+        "api_file": "pakistan.txt",
+        "name": "Independence",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenpak.webp"
+      },
+      "02": {
+        "api_file": "pakistan.txt",
+        "name": "Defence",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dfnc.webp"
+      }
+    },
+    "unique_categories": {
+      "01": {
+        "api_file": "global.txt",
+        "name": "Fire Text",
+        "suffix": "16",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/firetext.webp"
+      },
+      "02": {
+        "api_file": "global.txt",
+        "name": "3D Frame",
+        "suffix": "13",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/frame3d.webp"
+      },
+      "03": {
+        "api_file": "global.txt",
+        "name": "T-Shirt",
+        "suffix": "9",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/tshirt.webp"
+      },
+      "04": {
+        "api_file": "global.txt",
+        "name": "Underwater",
+        "suffix": "30",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/underwater.webp"
+      },
+      "05": {
+        "api_file": "global.txt",
+        "name": "Aquarium",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/aquarium.webp"
+      },
+      "06": {
+        "api_file": "global.txt",
+        "name": "Bubble",
+        "suffix": "15",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bubble.webp"
+      },
+      "07": {
+        "api_file": "global.txt",
+        "name": "Butterfly",
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/butterfly.webp"
+      },
+      "08": {
+        "api_file": "global.txt",
+        "name": "Jungle",
+        "suffix": "21",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/jungle.webp"
+      },
+      "09": {
+        "api_file": "global.txt",
+        "name": "Glitter",
+        "suffix": "4",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/glitter.webp"
+      },
+      "10": {
+        "api_file": "global.txt",
+        "name": "Mobile",
+        "suffix": "33",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/mobile.webp"
+      },
+      "11": {
+        "api_file": "global.txt",
+        "name": "Bottle",
+        "suffix": "12",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bottle.webp"
+      },
+      "12": {
+        "api_file": "global.txt",
+        "name": "Glass",
+        "suffix": "11",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/glass.webp"
+      },
+      "13": {
+        "api_file": "global.txt",
+        "name": "Coffee Cup",
+        "suffix": "10",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/coffeecup.webp"
+      }
     }
   },
   "poster_categories": {
-    "test_poster": {
-      "name": "পোষ্টার টেস্টিং",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/anniversary.webp",
-      "items": {
-        "etest1": {
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid1_thumb.webp",
-          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid1.webp",
-          "elements": [
-            {
-              "x_percent": 0.2562510073184967,
-              "y_percent": 0.8948061466217041,
-              "w_percent": 0.46804124116897583,
-              "h_percent": 0.09899458289146423,
-              "isEditable": true,
-              "type": "text",
-              "placeholder": "USER_NAME",
-              "color": "#FFFFFF",
-              "font": "tiro_bangla"
-            },
-            {
-              "x_percent": 0.6192493438720703,
-              "y_percent": 0.5468825697898865,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]"
-            }
-          ]
-        },
-        "e1": {
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3_thumb.webp",
-          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "elements": [
-            {
-              "x_percent": 0.2860361635684967,
-              "y_percent": 0.8563448786735535,
-              "w_percent": 0.46804124116897583,
-              "h_percent": 0.09899458289146423,
-              "isEditable": true,
-              "type": "text",
-              "placeholder": "USER_NAME",
-              "color": "#FFFFFF",
-              "font": "default"
-            },
-            {
-              "x_percent": 0.12725716829299927,
-              "y_percent": 0.9209566116333008,
-              "w_percent": 0.7061855792999268,
-              "h_percent": 0.09899458289146423,
-              "isEditable": true,
-              "type": "text",
-              "placeholder": "USER_DESIGNATION",
-              "color": "#FFFFFF",
-              "font": "default"
-            },
-            {
-              "x_percent": -0.017955662682652473,
-              "y_percent": 0.3509288430213928,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]"
-            },
-            {
-              "x_percent": 0.69508296251297,
-              "y_percent": 0.5830380320549011,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]"
-            }
-          ]
-        }
-      }
+    "01": {
+      "name": "২৬শে মার্চ",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/march26.webp",
+      "template_file": "test.txt",
+      "template_key": "march26"
     },
-    "ggggdhj": {
-      "name": "fhkhdhgd",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-      "items": {
-        "t1": {
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3_thumb.webp",
-          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "elements": [
-            {
-              "x_percent": 0.3015443682670593,
-              "y_percent": 0.8913266658782959,
-              "w_percent": 0.46804124116897583,
-              "h_percent": 0.09899458289146423,
-              "isEditable": true,
-              "type": "text",
-              "placeholder": "USER_NAME",
-              "color": "#FFFFFF",
-              "font": "default",
-              "font_size": 24
-            },
-            {
-              "x_percent": 0.654608964920044,
-              "y_percent": 0.6102994680404663,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]"
-            }
-          ]
-        },
-        "ty": {
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "elements": [
-            {
-              "x_percent": 0.011000926606357098,
-              "y_percent": 0.8159568905830383,
-              "w_percent": 0.9577319622039795,
-              "h_percent": 0.17865429818630219,
-              "isEditable": true,
-              "type": "text",
-              "placeholder": "USER_NAME",
-              "color": "#FFFFFF",
-              "font": "default",
-              "font_size": 52,
-              "cx_percent": 0.4898669123649597,
-              "cy_percent": 0.9052839875221252
-            },
-            {
-              "x_percent": 0.6530102491378784,
-              "y_percent": 0.5649123191833496,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]",
-              "cx_percent": 0.8076494336128235,
-              "cy_percent": 0.6809216141700745
-            },
-            {
-              "x_percent": 0.00974951684474945,
-              "y_percent": 0.32912951707839966,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]",
-              "cx_percent": 0.16438868641853333,
-              "cy_percent": 0.4451387822628021
-            }
-          ]
-        }
-      }
-    },
-    "1": {
-      "name": "hghh",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-      "items": {
-        "g": {
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "elements": [
-            {
-              "x_percent": 0.25183936953544617,
-              "y_percent": 0.8844144344329834,
-              "w_percent": 0.46804124116897583,
-              "h_percent": 0.09899458289146423,
-              "isEditable": true,
-              "type": "text",
-              "placeholder": "USER_NAME",
-              "color": "#FFFFFF",
-              "font": "default",
-              "font_size": 24,
-              "cx_percent": 0.4858599901199341,
-              "cy_percent": 0.9339117407798767
-            },
-            {
-              "x_percent": 0.6603958606719971,
-              "y_percent": 0.6315678358078003,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]",
-              "cx_percent": 0.8150350451469421,
-              "cy_percent": 0.7475770711898804
-            },
-            {
-              "x_percent": 0.010072688572108746,
-              "y_percent": 0.36736348271369934,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]",
-              "cx_percent": 0.1647118628025055,
-              "cy_percent": 0.4833727478981018
-            }
-          ]
-        },
-        "hu": {
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "elements": [
-            {
-              "x_percent": 0.24413760006427765,
-              "y_percent": 0.8944194912910461,
-              "w_percent": 0.46804124116897583,
-              "h_percent": 0.09899458289146423,
-              "isEditable": true,
-              "type": "text",
-              "placeholder": "USER_NAME",
-              "color": "#FFFFFF",
-              "font": "default",
-              "font_size": 24,
-              "cx_percent": 0.47815823554992676,
-              "cy_percent": 0.9439167380332947
-            },
-            {
-              "x_percent": 0.6479854583740234,
-              "y_percent": 0.6470349431037903,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]",
-              "cx_percent": 0.8026246428489685,
-              "cy_percent": 0.7630442380905151
-            },
-            {
-              "x_percent": -0.05403914302587509,
-              "y_percent": 0.18025092780590057,
-              "w_percent": 0.4268041253089905,
-              "h_percent": 0.5313224792480469,
-              "isEditable": true,
-              "type": "static_image",
-              "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/templates/images/img_1774608219066.webp",
-              "cx_percent": 0.15936291217803955,
-              "cy_percent": 0.4459121823310852
-            }
-          ]
-        }
-      }
-    },
-    "vvvv": {
-      "name": "dhdh",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-      "items": {
-        "fg": {
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "elements": [
-            {
-              "x_percent": 0.14890463650226593,
-              "y_percent": 0.8909399509429932,
-              "w_percent": 0.7061855792999268,
-              "h_percent": 0.09899458289146423,
-              "isEditable": true,
-              "type": "text",
-              "placeholder": "USER_DESIGNATION",
-              "color": "#FFFFFF",
-              "font": "default",
-              "font_size": 24,
-              "cx_percent": 0.5019974112510681,
-              "cy_percent": 0.9404372572898865
-            },
-            {
-              "x_percent": 0.6377819180488586,
-              "y_percent": 0.6102511286735535,
-              "w_percent": 0.30927833914756775,
-              "h_percent": 0.23201856017112732,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "[USER_PHOTO]",
-              "cx_percent": 0.7924210429191589,
-              "cy_percent": 0.7262603640556335
-            },
-            {
-              "x_percent": 0.4934791922569275,
-              "y_percent": 0.33332201838493347,
-              "w_percent": 0.4268041253089905,
-              "h_percent": 0.5313224792480469,
-              "isEditable": true,
-              "type": "static_image",
-              "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/templates/images/img_1774606798474.webp",
-              "cx_percent": 0.7068812251091003,
-              "cy_percent": 0.5989832282066345
-            },
-            {
-              "x_percent": 0.012385228648781776,
-              "y_percent": 0.2162613868713379,
-              "w_percent": 0.4845360815525055,
-              "h_percent": 0.5313224792480469,
-              "isEditable": false,
-              "type": "static_image",
-              "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/templates/images/img_1774606804651.webp",
-              "cx_percent": 0.25465327501296997,
-              "cy_percent": 0.4819226562976837
-            }
-          ]
-        }
-      }
-    },
-    "587": {
-      "name": "587",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-      "items": {
-        "587": {
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-          "elements": [
-            {
-              "x_percent": 0.2841472029685974,
-              "y_percent": 0.8809458017349243,
-              "w_percent": 0.45766130089759827,
-              "h_percent": 0.09682299196720123,
-              "isEditable": true,
-              "type": "text",
-              "placeholder": "USER_NAME",
-              "color": "#FFFFFF",
-              "font": "default",
-              "font_size": 24,
-              "cx_percent": 0.5129778385162354,
-              "cy_percent": 0.9293572902679443
-            },
-            {
-              "x_percent": 0.6428754329681396,
-              "y_percent": 0.6021593809127808,
-              "w_percent": 0.33266130089759827,
-              "h_percent": 0.24962177872657776,
-              "isEditable": true,
-              "type": "image",
-              "placeholder": "USER_PHOTO",
-              "hint": "ছবি যুক্ত করুন",
-              "cx_percent": 0.8092060685157776,
-              "cy_percent": 0.7269702553749084
-            }
-          ]
-        }
-      }
+    "02": {
+      "name": "ঈদ মোবারক",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp",
+      "template_file": "test.txt",
+      "template_key": "eid"
     }
   }
 }
