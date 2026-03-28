@@ -406,6 +406,12 @@
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
       "api_file": "json/test.txt",
       "suffix": "mytest"
+    },
+    "testinn": {
+      "name": "টেস্তফিও",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "template_file": "json/test.txt",
+      "template_key": "testinn"
     }
   },
   "posters": {
