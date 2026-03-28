@@ -19,6 +19,8 @@
           "cy_percent": 0.9348887205123901
         }
       ]
-    }
+    },
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp"
   ]
 }
