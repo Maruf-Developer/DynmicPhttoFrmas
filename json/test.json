@@ -2,7 +2,7 @@
   "controls": {
     "ads_control": {
       "ad_interval": 20,
-      "show_ad": true
+      "show_ad": false
     },
     "msg_control": {
       "message": "আমাদের অ্যাপটি ভালো লাগলে প্লে-স্টোরে একটি ৫-স্টার (⭐⭐⭐⭐⭐) রিভিউ দিন।",
