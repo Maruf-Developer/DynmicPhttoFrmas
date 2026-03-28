@@ -40,5 +40,27 @@
         }
       ]
     }
+  ],
+  "01": [
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "elements": [
+        {
+          "x_percent": 0.2162500023841858,
+          "y_percent": 0.46300578117370605,
+          "w_percent": 0.5674999952316284,
+          "h_percent": 0.07398843765258789,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.5,
+          "cy_percent": 0.5
+        }
+      ]
+    }
   ]
 }
