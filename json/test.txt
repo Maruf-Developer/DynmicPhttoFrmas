@@ -139,6 +139,38 @@
           "cy_percent": 0.7042315602302551
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "elements": [
+        {
+          "x_percent": 0.2847772538661957,
+          "y_percent": 0.8818913698196411,
+          "w_percent": 0.45766130089759827,
+          "h_percent": 0.09682299196720123,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.5136078596115112,
+          "cy_percent": 0.9303028583526611
+        },
+        {
+          "x_percent": 0.694664716720581,
+          "y_percent": 0.6279252767562866,
+          "w_percent": 0.2358870953321457,
+          "h_percent": 0.17700454592704773,
+          "isEditable": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.8126083016395569,
+          "cy_percent": 0.7164275050163269
+        }
+      ]
     }
   ]
 }
