@@ -172,5 +172,49 @@
         }
       ]
     }
+  ],
+  "hfguuu": [
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "elements": [
+        {
+          "x_percent": 0.2993941903114319,
+          "y_percent": 0.8952234387397766,
+          "w_percent": 0.45766130089759827,
+          "h_percent": 0.09682299196720123,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.5282248258590698,
+          "cy_percent": 0.9436349272727966
+        },
+        {
+          "x_percent": -0.08378355205059052,
+          "y_percent": 0.35838958621025085,
+          "w_percent": 0.6905242204666138,
+          "h_percent": 0.17549167573451996,
+          "isEditable": false,
+          "type": "text",
+          "placeholder": "USER_DESIGNATION",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "hint": "আপনার পদবি লিখুন",
+          "cx_percent": 0.2614785432815552,
+          "cy_percent": 0.44613540172576904
+        },
+        {
+          "x_percent": 0.5351680517196655,
+          "y_percent": 0.3621717095375061,
+          "w_percent": 0.06653226166963577,
+          "h_percent": 0.04387291893362999,
+          "isEditable": true
+        }
+      ]
+    }
   ]
 }
