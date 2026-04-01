@@ -19,6 +19,28 @@
           "cy_percent": 0.9611731171607971
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "elements": [
+        {
+          "x_percent": -0.04320107772946358,
+          "y_percent": 0.3686213195323944,
+          "w_percent": 0.4102822542190552,
+          "h_percent": 0.2095310091972351,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_BOX",
+          "color": "#880E4F",
+          "font": "bungee",
+          "font_size": 40,
+          "group": "রাজনৈতিক",
+          "hint": "বক্স ট্রস্ট",
+          "cx_percent": 0.1619400531053543,
+          "cy_percent": 0.47338682413101196
+        }
+      ]
     }
   ]
 }
