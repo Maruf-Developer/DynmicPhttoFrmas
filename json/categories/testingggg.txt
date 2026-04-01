@@ -41,6 +41,54 @@
           "cy_percent": 0.47338682413101196
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "elements": [
+        {
+          "x_percent": 0.36437398195266724,
+          "y_percent": 0.8039111495018005,
+          "w_percent": 0.33467742800712585,
+          "h_percent": 0.20574887096881866,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#C32729",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.5317127108573914,
+          "cy_percent": 0.9067855477333069
+        },
+        {
+          "x_percent": 0.6506140828132629,
+          "y_percent": 0.5615012645721436,
+          "w_percent": 0.27318549156188965,
+          "h_percent": 0.303328275680542,
+          "isEditable": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.7872068285942078,
+          "cy_percent": 0.7131654024124146
+        },
+        {
+          "x_percent": -0.08471876382827759,
+          "y_percent": 0.3679092228412628,
+          "w_percent": 0.44354838132858276,
+          "h_percent": 0.20801815390586853,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:buhgh",
+          "color": "#E65100",
+          "font": "bijoy_irsha",
+          "font_size": 24,
+          "group": "political",
+          "hint": "hhju",
+          "cx_percent": 0.1370554268360138,
+          "cy_percent": 0.4719182848930359
+        }
+      ]
     }
   ]
 }
