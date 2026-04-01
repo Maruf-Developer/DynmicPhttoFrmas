@@ -46,6 +46,67 @@
           "cy_percent": 0.9346050024032593
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
+      "elements": [
+        {
+          "x_percent": 0.2090463936328888,
+          "y_percent": 0.8362218737602234,
+          "w_percent": 0.5947580933570862,
+          "h_percent": 0.19969743490219116,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#C32729",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.5064254403114319,
+          "cy_percent": 0.9360706210136414
+        },
+        {
+          "x_percent": 0.2333689033985138,
+          "y_percent": 0.22561104595661163,
+          "w_percent": 0.4727822542190552,
+          "h_percent": 0.11270801723003387,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NETAR_NAAM",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.4697600305080414,
+          "cy_percent": 0.28196507692337036
+        },
+        {
+          "x_percent": -0.11875078827142715,
+          "y_percent": 0.2724897563457489,
+          "w_percent": 0.5201612710952759,
+          "h_percent": 0.4614220857620239,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:লাভ",
+          "color": "#E65100",
+          "font": "bungee",
+          "font_size": 24,
+          "hint": "Love",
+          "cx_percent": 0.14132985472679138,
+          "cy_percent": 0.5032007694244385
+        },
+        {
+          "x_percent": 0.6276294589042664,
+          "y_percent": 0.5768551826477051,
+          "w_percent": 0.33266130089759827,
+          "h_percent": 0.24962177872657776,
+          "isEditable": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.7939600944519043,
+          "cy_percent": 0.7016660571098328
+        }
+      ]
     }
   ]
 }
