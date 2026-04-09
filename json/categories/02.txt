@@ -1,0 +1,50 @@
+{
+  "02": [
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.4952815771102905,
+          "y_percent": 0.4083256721496582,
+          "w_percent": 0.41633063554763794,
+          "h_percent": 0.15104569494724274,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:আমাদের নেতা [USER_NETAR_NAAM]কে ভোট দিন",
+          "color": "#FF0000",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.7034469246864319,
+          "cy_percent": 0.483848512172699
+        },
+        {
+          "x_percent": 0.3841887414455414,
+          "y_percent": 0.8224138617515564,
+          "w_percent": 0.5725806355476379,
+          "h_percent": 0.1874515861272812,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.6704790592193604,
+          "cy_percent": 0.9161396622657776
+        },
+        {
+          "x_percent": 0.5841517448425293,
+          "y_percent": 0.5964800119400024,
+          "w_percent": 0.33266130089759827,
+          "h_percent": 0.25561580061912537,
+          "isEditable": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.7504823803901672,
+          "cy_percent": 0.7242878675460815
+        }
+      ]
+    }
+  ]
+}
