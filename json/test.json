@@ -398,7 +398,7 @@
     "02": {
       "name": "ঈদ মোবারক",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp",
-      "api_file": "json/test.txt",
+      "api_file": "json/categories/02.txt",
       "suffix": "02"
     },
     "03": {
