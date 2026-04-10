@@ -33,6 +33,26 @@
           "cy_percent": 0.9150745868682861
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.42301005125045776,
+          "y_percent": 0.5084764361381531,
+          "w_percent": 0.5322580933570862,
+          "h_percent": 0.3426356613636017,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:আমার মতো অনেকেই আছে এখানে যারা এখানে  [USER_EMAIL] করে অনেক [USER_MOBILE] নাম্বার নিয়ে[USER_DESIGNATION] পেয়ে",
+          "color": "#FF0000",
+          "font": "bijoy_irsha",
+          "font_size": 24,
+          "cx_percent": 0.6891390681266785,
+          "cy_percent": 0.6797942519187927
+        }
+      ]
     }
   ]
 }
