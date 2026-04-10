@@ -1,0 +1,38 @@
+{
+  "03": [
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.4471277892589569,
+          "y_percent": 0.44417861104011536,
+          "w_percent": 0.507056474685669,
+          "h_percent": 0.2920216917991638,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:আমাদের নেতা জনাব [USER_NETA] ভাইকে [USER_PROTIK]কে ভোট দিন",
+          "color": "#FF0000",
+          "font": "default",
+          "font_size": 78,
+          "cx_percent": 0.7006560564041138,
+          "cy_percent": 0.5901894569396973
+        },
+        {
+          "x_percent": 0.3928852677345276,
+          "y_percent": 0.8472976684570312,
+          "w_percent": 0.5161290168762207,
+          "h_percent": 0.13555383682250977,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.6509497761726379,
+          "cy_percent": 0.9150745868682861
+        }
+      ]
+    }
+  ]
+}
