@@ -111,6 +111,40 @@
           "cy_percent": 0.42866143584251404
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.47966939210891724,
+          "y_percent": 0.4397738575935364,
+          "w_percent": 0.5151209831237793,
+          "h_percent": 0.19674670696258545,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:আমাদের নেতা জনাব [USER_NETA] ভাইকে [USER_MARKA] মার্কায় আপনার মূল্যবান ভোট দিয়ে জয়যুক্ত করুন",
+          "color": "#FF0000",
+          "font": "agnibeena",
+          "font_size": 29,
+          "cx_percent": 0.7372298836708069,
+          "cy_percent": 0.5381472110748291
+        },
+        {
+          "x_percent": 0.24620991945266724,
+          "y_percent": 0.8097291588783264,
+          "w_percent": 0.8266128897666931,
+          "h_percent": 0.21688613295555115,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.6595163941383362,
+          "cy_percent": 0.9181722402572632
+        }
+      ]
     }
   ]
 }
