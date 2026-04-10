@@ -145,6 +145,40 @@
           "cy_percent": 0.9181722402572632
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.24892006814479828,
+          "y_percent": 0.8175726532936096,
+          "w_percent": 0.7993951439857483,
+          "h_percent": 0.20914019644260406,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.6486176252365112,
+          "cy_percent": 0.9221428036689758
+        },
+        {
+          "x_percent": 0.47099944949150085,
+          "y_percent": 0.5621179938316345,
+          "w_percent": 0.4697580635547638,
+          "h_percent": 0.22773043811321259,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:এই টেক্সট[USER_ADDRESS] এখানে যেতে হিবে [USER_EMAIL] দিয়ে",
+          "color": "#FF0000",
+          "font": "kathakali",
+          "font_size": 24,
+          "cx_percent": 0.705878496170044,
+          "cy_percent": 0.675983190536499
+        }
+      ]
     }
   ]
 }
