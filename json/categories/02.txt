@@ -45,6 +45,52 @@
           "cy_percent": 0.7242878675460815
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.3123769462108612,
+          "y_percent": 0.012152189388871193,
+          "w_percent": 0.29032257199287415,
+          "h_percent": 0.14484895765781403,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:আমার নেতা জনাব [USER_POLITICIAN_NAME] ভাইকে [USER_ELECTORAL_SYMBOL] মার্কায় ভোট দিন",
+          "color": "#FF0000",
+          "font": "bijoy_irsha",
+          "font_size": 24,
+          "cx_percent": 0.4575382471084595,
+          "cy_percent": 0.08457666635513306
+        },
+        {
+          "x_percent": 0.4935598075389862,
+          "y_percent": 0.5054168701171875,
+          "w_percent": 0.4677419364452362,
+          "h_percent": 0.3594112992286682,
+          "isEditable": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.7274307608604431,
+          "cy_percent": 0.6851224899291992
+        },
+        {
+          "x_percent": 0.34596991539001465,
+          "y_percent": 0.861105740070343,
+          "w_percent": 0.6481854915618896,
+          "h_percent": 0.11386521905660629,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.6700626611709595,
+          "cy_percent": 0.9180383682250977
+        }
+      ]
     }
   ]
 }
