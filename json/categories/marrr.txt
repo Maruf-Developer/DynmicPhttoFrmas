@@ -19,6 +19,26 @@
           "cy_percent": 0.9169626832008362
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.2966141104698181,
+          "y_percent": 0.8431335091590881,
+          "w_percent": 0.7086693644523621,
+          "h_percent": 0.1595662236213684,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.6509488224983215,
+          "cy_percent": 0.92291659116745
+        }
+      ]
     }
   ]
 }
