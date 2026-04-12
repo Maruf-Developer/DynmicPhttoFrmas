@@ -162,6 +162,52 @@
           "cy_percent": 0.9211730360984802
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.36917901039123535,
+          "y_percent": 0.6108568906784058,
+          "w_percent": 0.2842741906642914,
+          "h_percent": 0.2610379457473755,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:আমার নাম [USER_NAME]। আমার ঠিকানাঃ [USER_ADDRESS]",
+          "color": "#FF0000",
+          "font": "bijoy_irsha",
+          "font_size": 24,
+          "cx_percent": 0.5113161206245422,
+          "cy_percent": 0.7413758635520935
+        },
+        {
+          "x_percent": 0.42532938718795776,
+          "y_percent": 0.8470064401626587,
+          "w_percent": 0.5,
+          "h_percent": 0.1595662236213684,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.6753293871879578,
+          "cy_percent": 0.9267895817756653
+        },
+        {
+          "x_percent": 0.6285755038261414,
+          "y_percent": 0.5469067692756653,
+          "w_percent": 0.33366936445236206,
+          "h_percent": 0.25639039278030396,
+          "isEditable": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.79541015625,
+          "cy_percent": 0.6751019954681396
+        }
+      ]
     }
   ]
 }
