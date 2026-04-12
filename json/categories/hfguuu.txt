@@ -208,6 +208,52 @@
           "cy_percent": 0.6751019954681396
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.3080178499221802,
+          "y_percent": 0.841584324836731,
+          "w_percent": 0.6834677457809448,
+          "h_percent": 0.15646785497665405,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.6497517228126526,
+          "cy_percent": 0.9198182225227356
+        },
+        {
+          "x_percent": 0.23790420591831207,
+          "y_percent": 0.012501664459705353,
+          "w_percent": 0.47479838132858276,
+          "h_percent": 0.1471727341413498,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:আমার কাজ হচ্ছে [USER_EMAIL] পাঠানো। আম সারাদিন [USER_PHONE] করে না পেলে [USER_MOBILE] ছুড়ে মারি",
+          "color": "#FF0000",
+          "font": "sorolota",
+          "font_size": 24,
+          "cx_percent": 0.47530341148376465,
+          "cy_percent": 0.08608803153038025
+        },
+        {
+          "x_percent": 0.48110076785087585,
+          "y_percent": 0.47763437032699585,
+          "w_percent": 0.5604838728904724,
+          "h_percent": 0.43067389726638794,
+          "isEditable": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.7613427042961121,
+          "cy_percent": 0.6929713487625122
+        }
+      ]
     }
   ]
 }
