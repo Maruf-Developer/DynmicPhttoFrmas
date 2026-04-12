@@ -418,6 +418,12 @@
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
       "api_file": "json/categories/testingggg.txt",
       "suffix": "testingggg"
+    },
+    "marrr": {
+      "name": "মারত্যহ",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "api_file": "json/test.txt",
+      "suffix": "marrr"
     }
   }
 }
