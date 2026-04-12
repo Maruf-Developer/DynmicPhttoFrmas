@@ -1,0 +1,24 @@
+{
+  "marrr": [
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": 0.24621090292930603,
+          "y_percent": 0.8305955529212952,
+          "w_percent": 0.8235887289047241,
+          "h_percent": 0.1727343201637268,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 38,
+          "cx_percent": 0.6580052375793457,
+          "cy_percent": 0.9169626832008362
+        }
+      ]
+    }
+  ]
+}
