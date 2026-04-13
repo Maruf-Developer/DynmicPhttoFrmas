@@ -75,6 +75,26 @@
           "cy_percent": 0.4996126890182495
         }
       ]
+    },
+    {
+      "thumb": "http://ww.tibbjkuy.com/t_thmb.jpeg",
+      "bg_url": "http://ww.tibbjkuy.com/t.jpeg",
+      "elements": [
+        {
+          "x_percent": 0.24092741310596466,
+          "y_percent": 0.43025079369544983,
+          "w_percent": 0.5181451439857483,
+          "h_percent": 0.1387147307395935,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.5,
+          "cy_percent": 0.4996081590652466
+        }
+      ]
     }
   ]
 }
