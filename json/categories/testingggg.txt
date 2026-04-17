@@ -199,6 +199,173 @@
           "cy_percent": 0.9212706089019775
         }
       ]
+    },
+    {
+      "thumb": "http://gt.com/b.webp",
+      "bg_url": "http://gt.com/b.webp",
+      "elements": [
+        {
+          "x_percent": 0.32157257199287415,
+          "y_percent": 0.4183056056499481,
+          "w_percent": 0.3558467626571655,
+          "h_percent": 0.16338880360126495,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 18,
+          "cx_percent": 0.4994959533214569,
+          "cy_percent": 0.5
+        },
+        {
+          "x_percent": 0.27034834027290344,
+          "y_percent": 0.6300534605979919,
+          "w_percent": 0.5181451439857483,
+          "h_percent": 0.13388805091381073,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.5294209122657776,
+          "cy_percent": 0.6969974637031555
+        },
+        {
+          "x_percent": 0.40145382285118103,
+          "y_percent": 0.1404189020395279,
+          "w_percent": 0.47479838132858276,
+          "h_percent": 0.1921331286430359,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_JJJJ",
+          "color": "#BF360C",
+          "font": "default",
+          "font_size": 24,
+          "hint": "hhn",
+          "cx_percent": 0.6388530135154724,
+          "cy_percent": 0.23648546636104584
+        },
+        {
+          "x_percent": 0.07712579518556595,
+          "y_percent": 0.7983531355857849,
+          "w_percent": 0.5332661271095276,
+          "h_percent": 0.21785174310207367,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:bnnj [USER_MOBILE] hhuu [USER_DESIGNATION]nnb  fgtbhb nbn",
+          "color": "#FF00FF",
+          "font": "default",
+          "font_size": 14,
+          "cx_percent": 0.34375885128974915,
+          "cy_percent": 0.9072790145874023
+        },
+        {
+          "x_percent": 0.014129638671875,
+          "y_percent": 0.08487007766962051,
+          "w_percent": 0.36995968222618103,
+          "h_percent": 0.20574887096881866,
+          "isEditable": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.19910947978496552,
+          "cy_percent": 0.18774451315402985
+        },
+        {
+          "type": "section_title",
+          "placeholder": "hjj"
+        },
+        {
+          "x_percent": 0.15454988181591034,
+          "y_percent": 0.7017229199409485,
+          "w_percent": 0.6622983813285828,
+          "h_percent": 0.1543116420507431,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:hhhhhu[USER_JJJJ]hhh uu yuu",
+          "color": "#0000FF",
+          "font": "default",
+          "font_size": 15,
+          "cx_percent": 0.4856990575790405,
+          "cy_percent": 0.7788787484169006
+        },
+        {
+          "x_percent": 0.4722014367580414,
+          "y_percent": 0.7913584113121033,
+          "w_percent": 0.5181451439857483,
+          "h_percent": 0.13388805091381073,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.7312740087509155,
+          "cy_percent": 0.8583024144172668
+        },
+        {
+          "x_percent": 0.5389837622642517,
+          "y_percent": 0.017264915630221367,
+          "w_percent": 0.4707661271095276,
+          "h_percent": 0.24810892343521118,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_DESIGNATION",
+          "color": "#C32729",
+          "font": "default",
+          "font_size": 15,
+          "hint": "আপনার পদবি লিখুন",
+          "cx_percent": 0.7743667960166931,
+          "cy_percent": 0.1413193792104721
+        },
+        {
+          "x_percent": -0.03595758229494095,
+          "y_percent": 0.264281302690506,
+          "w_percent": 0.44455644488334656,
+          "h_percent": 0.21860817074775696,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_PHONE",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 15,
+          "hint": "আপনার ফোন নম্বর",
+          "cx_percent": 0.18632064759731293,
+          "cy_percent": 0.37358537316322327
+        },
+        {
+          "x_percent": -0.06481047719717026,
+          "y_percent": 0.5283151268959045,
+          "w_percent": 0.4334677457809448,
+          "h_percent": 0.19667170941829681,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "CUSTOM:hhh",
+          "color": "#795548",
+          "font": "default",
+          "font_size": 49,
+          "hint": "bbb",
+          "cx_percent": 0.15192338824272156,
+          "cy_percent": 0.6266509890556335
+        },
+        {
+          "x_percent": 0.5469202995300293,
+          "y_percent": 0.3693740665912628,
+          "w_percent": 0.49193549156188965,
+          "h_percent": 0.21406958997249603,
+          "isEditable": true,
+          "type": "text",
+          "placeholder": "USER_MOBILE",
+          "color": "#311B92",
+          "font": "default",
+          "font_size": 15,
+          "hint": "আপনার মোবাইল নম্বর",
+          "cx_percent": 0.7928880453109741,
+          "cy_percent": 0.47640883922576904
+        }
+      ]
     }
   ]
 }
