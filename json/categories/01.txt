@@ -95,6 +95,35 @@
           "cy_percent": 0.4996081590652466
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
+      "elements": [
+        {
+          "x_percent": -0.14743830263614655,
+          "y_percent": 0.7492913603782654,
+          "w_percent": 1.3538306951522827,
+          "h_percent": 1.3167285919189453,
+          "isEditable": false,
+          "type": "static_image",
+          "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/main/templates/images/img_1776606377472.webp",
+          "cx_percent": 0.5294770002365112,
+          "cy_percent": 1.4076557159423828
+        },
+        {
+          "x_percent": 0.12789621949195862,
+          "y_percent": 0.33345288038253784,
+          "w_percent": 0.8266128897666931,
+          "h_percent": 0.6096654534339905,
+          "isEditable": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.5412026643753052,
+          "cy_percent": 0.6382855772972107
+        }
+      ]
     }
   ]
 }
