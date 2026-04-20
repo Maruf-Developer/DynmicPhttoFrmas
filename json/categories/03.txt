@@ -53,6 +53,70 @@
           "cy_percent": 0.6797942519187927
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4.webp",
+      "elements": [
+        {
+          "x_percent": 0.16708669066429138,
+          "y_percent": 0.8708646297454834,
+          "w_percent": 0.6743951439857483,
+          "h_percent": 0.147360697388649,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 31,
+          "cx_percent": 0.5042842626571655,
+          "cy_percent": 0.9445449709892273
+        },
+        {
+          "x_percent": 0.44989898800849915,
+          "y_percent": 0.4817703664302826,
+          "w_percent": 0.5352822542190552,
+          "h_percent": 0.38929617404937744,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.7175401449203491,
+          "cy_percent": 0.6764184236526489
+        },
+        {
+          "x_percent": 0.39212724566459656,
+          "y_percent": -0.004664446227252483,
+          "w_percent": 0.5625,
+          "h_percent": 0.2844574749469757,
+          "isEditable": true,
+          "showInUserLayer": false,
+          "type": "text",
+          "placeholder": "CUSTOM:আমার সোনার বাংলস আমিও ভাবি তারা ভুলে",
+          "color": "#FFFFFF",
+          "font": "ashalota",
+          "font_size": 24,
+          "cx_percent": 0.673377275466919,
+          "cy_percent": 0.1375642865896225
+        },
+        {
+          "x_percent": 0.41940897703170776,
+          "y_percent": 0.2661326229572296,
+          "w_percent": 0.49092742800712585,
+          "h_percent": 0.18035191297531128,
+          "isEditable": false,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "CUSTOM:তোমাত জনক্স সহ স্ট ্যানডার্ড",
+          "color": "#FF0000",
+          "font": "bijoy_irsha",
+          "font_size": 17,
+          "cx_percent": 0.6648727059364319,
+          "cy_percent": 0.35630857944488525
+        }
+      ]
     }
   ]
 }
