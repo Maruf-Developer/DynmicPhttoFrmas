@@ -1,0 +1,36 @@
+{
+  "march26": [
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march2_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march2.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march5_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march5.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march6_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march6.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march7_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march7.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march8_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march8.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march9_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march9.webp"
+    }
+  ]
+}

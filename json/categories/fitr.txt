@@ -1,0 +1,32 @@
+{
+  "march26": [
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid1_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid1.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid2_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid2.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid4_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid4.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid5_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid5.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid6_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid6.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid7_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid7.webp"
+    }
+  ]
+}
