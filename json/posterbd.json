@@ -415,19 +415,19 @@
       "api_file": "json/categories/tester.txt",
       "suffix": "tester"
     },
-    "04": {
+    "march26": {
       "api_file": "json/categories/march26.txt",
       "name": "২৬শে মার্চ",
       "suffix": "march26",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/march26.webp"
     },
-    "05": {
+    "boishakh": {
       "api_file": "json/categories/boishakh.txt",
       "name": "পহেলা বৈশাখ",
       "suffix": "boishakh",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/pohela.webp"
     },
-    "09": {
+    "fitr": {
       "api_file": "json/categories/fitr.txt",
       "name": "ঈদ মোবারক",
       "suffix": "fitr",
