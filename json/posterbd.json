@@ -407,5 +407,13 @@
       "suffix": "9",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp"
     }
+  },
+  "poster_categories": {
+    "tester": {
+      "name": "টেস্টার",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4.webp",
+      "api_file": "json/categories/tester.txt",
+      "suffix": "tester"
+    }
   }
 }
