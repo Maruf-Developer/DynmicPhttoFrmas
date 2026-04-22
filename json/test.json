@@ -424,6 +424,12 @@
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
       "api_file": "json/categories/marrr.txt",
       "suffix": "marrr"
+    },
+    "678": {
+      "name": "জিই",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4.webp",
+      "api_file": "json/test.txt",
+      "suffix": "678"
     }
   }
 }
