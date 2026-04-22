@@ -432,6 +432,12 @@
       "name": "ঈদ মোবারক",
       "suffix": "fitr",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp"
+    },
+    "01": {
+      "name": "২১শে ফেব্রুয়ারী",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4.webp",
+      "api_file": "json/categories/01.txt",
+      "suffix": "01"
     }
   }
 }
