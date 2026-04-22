@@ -414,6 +414,23 @@
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4.webp",
       "api_file": "json/categories/tester.txt",
       "suffix": "tester"
+    },   "04": {
+      "api_file": "poster.txt",
+      "name": "২৬শে মার্চ",
+      "suffix": "4",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/march26.webp"
+    },
+    "05": {
+      "api_file": "poster.txt",
+      "name": "পহেলা বৈশাখ",
+      "suffix": "5",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/pohela.webp"
+    },
+    "09": {
+      "api_file": "poster.txt",
+      "name": "ঈদ মোবারক",
+      "suffix": "9",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp"
     }
   }
 }
