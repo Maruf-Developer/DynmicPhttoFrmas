@@ -1,0 +1,65 @@
+{
+  "mayday": [
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may2_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may2.webp",
+      "elements": [
+        {
+          "x_percent": 0.5518818497657776,
+          "y_percent": 0.45871230959892273,
+          "w_percent": 0.42943549156188965,
+          "h_percent": 0.37756597995758057,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.7665995955467224,
+          "cy_percent": 0.6474953293800354
+        },
+        {
+          "x_percent": -0.060483869165182114,
+          "y_percent": 0.7137096524238586,
+          "w_percent": 1.1219757795333862,
+          "h_percent": 0.3328445851802826,
+          "isEditable": false,
+          "showInUserLayer": false,
+          "type": "sticker",
+          "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(10).webp",
+          "cx_percent": 0.5005040168762207,
+          "cy_percent": 0.8801319599151611
+        },
+        {
+          "x_percent": 0.4378671944141388,
+          "y_percent": 0.8971659541130066,
+          "w_percent": 0.5181451439857483,
+          "h_percent": 0.12976539134979248,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.6969397664070129,
+          "cy_percent": 0.9620486497879028
+        },
+        {
+          "x_percent": 0.14612111449241638,
+          "y_percent": 0.7690995335578918,
+          "w_percent": 0.21068547666072845,
+          "h_percent": 0.1004398837685585,
+          "isEditable": false,
+          "showInUserLayer": false,
+          "type": "text",
+          "placeholder": "CUSTOM:দিবসের",
+          "color": "#FFFFFF",
+          "font": "tiro_bangla",
+          "font_size": 13,
+          "cx_percent": 0.2514638602733612,
+          "cy_percent": 0.819319486618042
+        }
+      ]
+    }
+  ]
+}
