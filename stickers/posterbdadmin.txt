@@ -1,8 +1,36 @@
 {
- "Emojis": [
-    "😀", "😂", "😊", "😍", "🥰", "😘", "😎", "😭", "🥺", "😡", "🥳", "🤔", "😅", "😇", "😉", "😋", "😜", "🤩", "😔", "😱",
-    "👍", "👎", "✌️", "🤞", "🤝", "🙏", "👏", "🫶", "💪", "🤌", "👋", "👌", "👇", "👆", "👉", "👈",
-    "❤️", "💔", "💕", "💖", "💘", "💝", "💓", "💗", "🤍", "🖤"
+
+ "footer": [
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(1).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(2).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(3).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(4).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(5).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(6).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(7).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(8).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(9).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(10).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(11).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(12).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(13).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(14).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(15).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(16).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(17).webp"
+  ],
+  
+ "স্লোগান": [
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/posticker/slogan%20(1).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/posticker/slogan%20(2).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/posticker/slogan%20(3).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/posticker/slogan%20(4).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/posticker/slogan%20(5).webp"
+  ],
+  
+ "অন্যান্য": [
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/posticker/sofol%20(1).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/posticker/badge%20(1).webp"
   ],
 
   "BNP": [
@@ -60,6 +88,11 @@
   "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/awami/s%20(18).webp"
   ],
 
+ "Emojis": [
+    "😀", "😂", "😊", "😍", "🥰", "😘", "😎", "😭", "🥺", "😡", "🥳", "🤔", "😅", "😇", "😉", "😋", "😜", "🤩", "😔", "😱",
+    "👍", "👎", "✌️", "🤞", "🤝", "🙏", "👏", "🫶", "💪", "🤌", "👋", "👌", "👇", "👆", "👉", "👈",
+    "❤️", "💔", "💕", "💖", "💘", "💝", "💓", "💗", "🤍", "🖤"
+  ],
   "Icons": [
     "📢", "📣", "🎤", "🗳️", "⚖️", "✊", "🇧🇩",
     "🕋", "🕌", "☪️", "🤲", "📿", "🌙", 
