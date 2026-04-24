@@ -106,6 +106,52 @@
           "cy_percent": 0.9412916898727417
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may3_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may3.webp",
+      "elements": [
+        {
+          "x_percent": 0.030632756650447845,
+          "y_percent": 0.40064361691474915,
+          "w_percent": 0.44254031777381897,
+          "h_percent": 0.31245550513267517,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "image",
+          "placeholder": "USER_PHOTO",
+          "hint": "ছবি যুক্ত করুন",
+          "cx_percent": 0.25190290808677673,
+          "cy_percent": 0.5568714141845703
+        },
+        {
+          "x_percent": -0.061302922666072845,
+          "y_percent": 0.7231219410896301,
+          "w_percent": 1.1260080337524414,
+          "h_percent": 0.32170817255973816,
+          "isEditable": false,
+          "showInUserLayer": false,
+          "type": "sticker",
+          "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(6).webp",
+          "cx_percent": 0.5017011165618896,
+          "cy_percent": 0.8839760422706604
+        },
+        {
+          "x_percent": 0.027860580012202263,
+          "y_percent": 0.8722308874130249,
+          "w_percent": 0.5846773982048035,
+          "h_percent": 0.13309608399868011,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 27,
+          "cx_percent": 0.32019928097724915,
+          "cy_percent": 0.9387789368629456
+        }
+      ]
     }
   ]
 }
