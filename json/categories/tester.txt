@@ -53,6 +53,28 @@
           "cy_percent": 0.9196341037750244
         }
       ]
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may3_thumb.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may3.webp",
+      "elements": [
+        {
+          "x_percent": -0.0031994234304875135,
+          "y_percent": 0.8101812601089478,
+          "w_percent": 0.5282257795333862,
+          "h_percent": 0.17010676860809326,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#E65100",
+          "font": "default",
+          "font_size": 18,
+          "hint": "নাম লিখুন",
+          "cx_percent": 0.2609134912490845,
+          "cy_percent": 0.8952346444129944
+        }
+      ]
     }
   ]
 }
