@@ -247,20 +247,6 @@
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/valentine.webp"
       }
     },
-    "india_categories": {
-      "01": {
-        "api_file": "india.txt",
-        "name": "Republic",
-        "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/repub.webp"
-      },
-      "02": {
-        "api_file": "india.txt",
-        "name": "Independence",
-        "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenind.webp"
-      }
-    },
     "islamic_categories": {
       "01": {
         "api_file": "islamic.txt",
@@ -291,20 +277,6 @@
         "name": "Islamic",
         "suffix": "5",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/islamic.webp"
-      }
-    },
-    "pakistan_categories": {
-      "01": {
-        "api_file": "pakistan.txt",
-        "name": "Independence",
-        "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenpak.webp"
-      },
-      "02": {
-        "api_file": "pakistan.txt",
-        "name": "Defence",
-        "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dfnc.webp"
       }
     },
     "unique_categories": {
