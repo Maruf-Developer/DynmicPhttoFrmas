@@ -246,6 +246,56 @@
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dfnc.webp"
       }
     },
+    "bangladesh_categories": {
+     "01": {
+        "api_file": "bangla.txt",
+        "name": "২১শে ফেব্রুয়ারী",
+        "suffix": "1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/feb21.webp"
+      },
+      "02": {
+        "api_file": "bangla.txt",
+        "name": "২৬শে মার্চ",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/march26.webp"
+      },
+      "03": {
+        "api_file": "bangla.txt",
+        "name": "১৬ ডিসেম্বর",
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dec16.webp"
+      },
+      "04": {
+        "api_file": "bangla.txt",
+        "name": "পহেলা বৈশাখ",
+        "suffix": "4",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/pohela.webp"
+      },
+      "07": {
+        "api_file": "bangla.txt",
+        "name": "বিএনপি",
+        "suffix": "7",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp"
+      },
+      "08": {
+        "api_file": "bangla.txt",
+        "name": "আওয়ামী লীগ",
+        "suffix": "8",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp"
+      },
+      "09": {
+        "api_file": "bangla.txt",
+        "name": "শ্রমিক দিবস",
+        "suffix": "9",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/mayday.webp"
+      },
+      "15": {
+        "api_file": "islamic.txt",
+        "name": "ঈদ মোবারক",
+        "suffix": "2",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp"
+      }
+    },
     "unique_categories": {
       "10": {
         "api_file": "global.txt",
