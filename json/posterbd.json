@@ -397,17 +397,24 @@
     },
     "fitr": {
       "api_file": "json/categories/fitr.txt",
-      "name": "ঈদ মোবারক",
+      "name": "ঈদুল ফিতর",
       "suffix": "fitr",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp",
       "order": 2
+    },
+    "adha": {
+      "api_file": "json/categories/adha.txt",
+      "name": "ঈদুল আযহা",
+      "suffix": "adha",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/adha.webp",
+      "order": 1
     },
     "mayday": {
       "api_file": "json/categories/mayday.txt",
       "name": "শ্রমিক দিবস",
       "suffix": "mayday",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/mayday.webp",
-      "order": 1
+      "order": 5
     }
   }
 }
