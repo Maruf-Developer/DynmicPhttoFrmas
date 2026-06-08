@@ -401,42 +401,42 @@
       "name": "২৬শে মার্চ",
       "suffix": "march26",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/march26.webp",
-      "order": 3
+      "order": 2
     },
     "boishakh": {
       "api_file": "json/categories/boishakh.txt",
       "name": "পহেলা বৈশাখ",
       "suffix": "boishakh",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/pohela.webp",
-      "order": 4
+      "order": 3
     },
     "fitr": {
       "api_file": "json/categories/fitr.txt",
       "name": "ঈদুল ফিতর",
       "suffix": "fitr",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp",
-      "order": 2
+      "order": 5
     },
     "adha": {
       "api_file": "json/categories/adha.txt",
       "name": "ঈদুল আযহা",
       "suffix": "adha",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/adha.webp",
-      "order": 1
+      "order": 4
     },
     "fifa": {
       "api_file": "json/categories/fifa.txt",
       "name": "ফিফা বিশ্বকাপ",
       "suffix": "fifa",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fifa.webp",
-      "order": 5
+      "order": 0
     },
     "mayday": {
       "api_file": "json/categories/mayday.txt",
       "name": "শ্রমিক দিবস",
       "suffix": "mayday",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/mayday.webp",
-      "order": 5
+      "order": 1
     }
   }
 }
