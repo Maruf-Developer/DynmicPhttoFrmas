@@ -73,6 +73,14 @@
         "suffix": "3",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp",
         "order": 7
+      },
+      
+      "15": {
+        "api_file": "bangla.txt",
+        "name": "শোক দিবস",
+        "suffix": "5",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/shok.webp",
+        "order": 7
       }
     },
     "famous_categories": {
