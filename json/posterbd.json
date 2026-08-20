@@ -74,6 +74,13 @@
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp",
         "order": 8
       },
+      "48": {
+        "api_file": "bangla.txt",
+        "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
+        "suffix": "48",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+        "order": 48
+      },
       "20": {
         "api_file": "bangla.txt",
         "name": "শোক দিবস",
@@ -430,6 +437,13 @@
       "name": "স্বেচ্ছাসেবক দল",
       "suffix": "august19",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
+      "order": 88
+    },
+    "september1": {
+      "api_file": "json/categories/bnp.txt",
+      "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
+      "suffix": "september1",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
       "order": 88
     },
     "mayday": {
