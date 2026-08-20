@@ -422,28 +422,28 @@
       "name": "ঈদুল ফিতর",
       "suffix": "fitr",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp",
-      "order": 4
+      "order": 3
     },
     "adha": {
       "api_file": "json/categories/adha.txt",
       "name": "ঈদুল আযহা",
       "suffix": "adha",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/adha.webp",
-      "order": 3
+      "order": 6
     },
     "august19": {
       "api_file": "json/categories/august19.txt",
       "name": "স্বেচ্ছাসেবক দল",
       "suffix": "august19",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
-      "order": 88
+      "order": 4
     },
     "september1": {
       "api_file": "json/categories/bnp.txt",
       "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
       "suffix": "september1",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
-      "order": 88
+      "order": 5
     },
     "mayday": {
       "api_file": "json/categories/mayday.txt",
