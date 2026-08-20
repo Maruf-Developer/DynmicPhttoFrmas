@@ -482,7 +482,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/Maey1asstPhttFrmaes/squr%20(4).webp"
   ],
 
-  "square21": [
+  "square48": [
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/f48_1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/f48_2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/f48_3.webp",
