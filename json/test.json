@@ -424,6 +424,27 @@
     }
   },
   "poster_categories": {
+    "bnp_posters": {
+      "name": "বিএনপি পোস্টার",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+      "order": 99,
+      "sub_categories": {
+        "august19": {
+          "api_file": "json/categories/august19.txt",
+          "name": "স্বেচ্ছাসেবক দল",
+          "suffix": "august19",
+          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
+          "order": 1
+        },
+        "september1": {
+          "api_file": "json/categories/bnp.txt",
+          "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
+          "suffix": "september1",
+          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+          "order": 2
+        }
+      }
+    },
     "march26": {
       "api_file": "json/categories/march26.txt",
       "name": "২৬শে মার্চ",
