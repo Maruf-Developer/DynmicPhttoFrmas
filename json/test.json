@@ -481,7 +481,7 @@
       "order": 4
     },
     "september1": {
-      "api_file": "json/categories/bnp.txt",
+      "api_file": "json/categories/september1.txt",
       "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
       "suffix": "september1",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
