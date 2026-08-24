@@ -50,6 +50,9 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_23.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_24.webp"
   ],
+"landscape1_locked": [
+    "1,4"
+  ],
   "landscape1": [
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/land1/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/EkusheFebPhotFrms/land1/fram-3.webp",
@@ -152,6 +155,9 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land%20(24).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land%20(25).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/26aMarchhPhtooFrme/land%20(26).webp"
+  ],
+"square3_locked": [
+    "1,4"
   ],
   "square3": [
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BiijoyDboshPhtoFrmes/bijy/squr%20(1).webp",
