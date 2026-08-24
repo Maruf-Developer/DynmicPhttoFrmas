@@ -101,6 +101,7 @@
         "api_file": "bangla.txt",
         "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
         "suffix": "48",
+         "locked": "1,4",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
         "order": 5
       },
@@ -479,6 +480,7 @@
       "api_file": "json/categories/bnp.txt",
       "name": "স্বেচ্ছাসেবক দল",
       "suffix": "august19",
+       "locked": "1,3",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
       "order": 4
     },
@@ -486,7 +488,8 @@
       "api_file": "json/categories/bnp.txt",
       "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
       "suffix": "september1",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp", 
+      "locked": "1,4",
       "order": 5
     },
     "mayday": {
