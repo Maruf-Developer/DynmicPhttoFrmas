@@ -31,54 +31,6 @@
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march9_thumb.webp",
       "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march9.webp"
-    },
-    {
-      "thumb": "https://github.com/Maruf-Developer/DynmicPhttoFrmas/blob/main/poster/mayday/may1_thumb.webp",
-      "bg_url": "https://github.com/Maruf-Developer/DynmicPhttoFrmas/blob/main/poster/mayday/may1.webp",
-      "elements": [
-        {
-          "x_percent": -0.06747731566429138,
-          "y_percent": 0.7171820402145386,
-          "w_percent": 1.1360887289047241,
-          "h_percent": 0.3335777223110199,
-          "isEditable": true,
-          "showInUserLayer": true,
-          "type": "sticker",
-          "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(5).webp",
-          "cx_percent": 0.5005670189857483,
-          "cy_percent": 0.8839709162712097
-        },
-        {
-          "x_percent": 0.4155115783214569,
-          "y_percent": 0.8735759854316711,
-          "w_percent": 0.5473790168762207,
-          "h_percent": 0.1524926722049713,
-          "isEditable": true,
-          "showInUserLayer": true,
-          "type": "text",
-          "placeholder": "CUSTOM:মারুফ হাসান",
-          "color": "#FFFFFF",
-          "font": "default",
-          "font_size": 29,
-          "cx_percent": 0.6892011165618896,
-          "cy_percent": 0.9498223066329956
-        },
-        {
-          "x_percent": 0.49677398800849915,
-          "y_percent": 0.615189254283905,
-          "w_percent": 0.43145161867141724,
-          "h_percent": 0.14369501173496246,
-          "isEditable": true,
-          "showInUserLayer": true,
-          "type": "text",
-          "placeholder": "CUSTOM:টেস্ট পোষ্টার",
-          "color": "#FF0000",
-          "font": "ashalota",
-          "font_size": 24,
-          "cx_percent": 0.7124997973442078,
-          "cy_percent": 0.6870367527008057
-        }
-      ]
     }
   ]
 }
