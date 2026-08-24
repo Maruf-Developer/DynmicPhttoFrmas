@@ -2,7 +2,7 @@
   "controls": {
     "ads_control": {
       "ad_interval": 20,
-      "show_ad": false
+      "show_ad": true
     },
     "msg_control": {
       "message": "আমাদের অ্যাপটি ভালো লাগলে প্লে-স্টোরে একটি ৫-স্টার (⭐⭐⭐⭐⭐) রিভিউ দিন।",
@@ -22,52 +22,113 @@
         "api_file": "bangla.txt",
         "name": "২১শে ফেব্রুয়ারী",
         "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/feb21.webp"
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/feb21.webp",
+        "order": 0
       },
       "02": {
         "api_file": "bangla.txt",
         "name": "২৬শে মার্চ",
         "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/march26.webp"
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/march26.webp",
+        "order": 1
       },
       "03": {
         "api_file": "bangla.txt",
         "name": "১৬ ডিসেম্বর",
         "suffix": "3",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dec16.webp"
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dec16.webp",
+        "order": 2
       },
       "04": {
         "api_file": "bangla.txt",
         "name": "পহেলা বৈশাখ",
         "suffix": "4",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/pohela.webp"
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/pohela.webp",
+        "order": 3
       },
       "07": {
-        "api_file": "bangla.txt",
         "name": "বিএনপি",
-        "suffix": "7",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp"
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp",
+        "order": 4,
+        "sub_categories": {
+          "01": {
+            "api_file": "bangla.txt",
+            "name": "বিএনপি",
+            "suffix": "7",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp",
+            "order": 1
+          },
+          "02": {
+            "api_file": "json/categories/august19.txt",
+            "name": "স্বেচ্ছাসেবক দল",
+            "suffix": "august19",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
+            "order": 2
+          },
+          "03": {
+            "api_file": "json/categories/bnp.txt",
+            "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
+            "suffix": "september1",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+            "order": 3
+          }
+        }
       },
       "08": {
         "api_file": "bangla.txt",
         "name": "আওয়ামী লীগ",
         "suffix": "8",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp"
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
+        "order": 6
       },
       "09": {
-        "api_file": "islamic.txt",
-        "name": "মাহে রমজান",
-        "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/RamadanPhotFrmes/temp/ramadan.webp"
+        "api_file": "bangla.txt",
+        "name": "শ্রমিক দিবস",
+        "suffix": "9",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/mayday.webp",
+        "order": 8
       },
       "15": {
         "api_file": "islamic.txt",
         "name": "ঈদ মোবারক",
-        "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/fitr.webp"
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp",
+        "order": 9
+      },
+      "48": {
+        "api_file": "bangla.txt",
+        "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
+        "suffix": "48",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+        "order": 5
+      },
+      "20": {
+        "api_file": "bangla.txt",
+        "name": "শোক দিবস",
+        "suffix": "5",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/shok.webp",
+        "order": 7
       }
     },
     "famous_categories": {
+      "10": {
+        "api_file": "global.txt",
+        "name": "Love",
+        "suffix": "22",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/love.webp"
+      },
+      "11": {
+        "api_file": "global.txt",
+        "name": "Miss You",
+        "suffix": "32",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/miss.webp"
+      },
+      "12": {
+        "api_file": "global.txt",
+        "name": "Nature",
+        "suffix": "34",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/nature.webp"
+      },
       "01": {
         "api_file": "global.txt",
         "name": "Snowfall",
@@ -121,24 +182,6 @@
         "name": "Kids",
         "suffix": "5",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/kids.webp"
-      },
-      "10": {
-        "api_file": "global.txt",
-        "name": "Love",
-        "suffix": "22",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/love.webp"
-      },
-      "11": {
-        "api_file": "global.txt",
-        "name": "Miss You",
-        "suffix": "32",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/miss.webp"
-      },
-      "12": {
-        "api_file": "global.txt",
-        "name": "Nature",
-        "suffix": "34",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/nature.webp"
       }
     },
     "featured_categories": {
@@ -247,20 +290,6 @@
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/valentine.webp"
       }
     },
-    "india_categories": {
-      "01": {
-        "api_file": "india.txt",
-        "name": "Republic",
-        "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/repub.webp"
-      },
-      "02": {
-        "api_file": "india.txt",
-        "name": "Independence",
-        "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenind.webp"
-      }
-    },
     "islamic_categories": {
       "01": {
         "api_file": "islamic.txt",
@@ -293,21 +322,31 @@
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/islamic.webp"
       }
     },
-    "pakistan_categories": {
-      "01": {
-        "api_file": "pakistan.txt",
-        "name": "Independence",
-        "suffix": "1",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/indepenpak.webp"
-      },
-      "02": {
-        "api_file": "pakistan.txt",
-        "name": "Defence",
-        "suffix": "2",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dfnc.webp"
-      }
-    },
     "unique_categories": {
+      "10": {
+        "api_file": "global.txt",
+        "name": "Mobile",
+        "suffix": "33",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/mobile.webp"
+      },
+      "11": {
+        "api_file": "global.txt",
+        "name": "Bottle",
+        "suffix": "12",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bottle.webp"
+      },
+      "12": {
+        "api_file": "global.txt",
+        "name": "Glass",
+        "suffix": "11",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/glass.webp"
+      },
+      "13": {
+        "api_file": "global.txt",
+        "name": "Coffee Cup",
+        "suffix": "10",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/coffeecup.webp"
+      },
       "01": {
         "api_file": "global.txt",
         "name": "Fire Text",
@@ -361,75 +400,78 @@
         "name": "Glitter",
         "suffix": "4",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/glitter.webp"
-      },
-      "10": {
-        "api_file": "global.txt",
-        "name": "Mobile",
-        "suffix": "33",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/mobile.webp"
-      },
-      "11": {
-        "api_file": "global.txt",
-        "name": "Bottle",
-        "suffix": "12",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bottle.webp"
-      },
-      "12": {
-        "api_file": "global.txt",
-        "name": "Glass",
-        "suffix": "11",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/glass.webp"
-      },
-      "13": {
-        "api_file": "global.txt",
-        "name": "Coffee Cup",
-        "suffix": "10",
-        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/coffeecup.webp"
       }
     }
   },
-  "poster_categories": {
-    "01": {
+  "posters": {
+    "04": {
+      "api_file": "poster.txt",
       "name": "২৬শে মার্চ",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/march26.webp",
-      "api_file": "json/categories/01.txt",
-      "suffix": "01"
+      "suffix": "4",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/march26.webp"
     },
-    "02": {
+    "05": {
+      "api_file": "poster.txt",
+      "name": "পহেলা বৈশাখ",
+      "suffix": "5",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/pohela.webp"
+    },
+    "09": {
+      "api_file": "poster.txt",
       "name": "ঈদ মোবারক",
+      "suffix": "9",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp"
+    }
+  },
+  "poster_categories": {
+    "march26": {
+      "api_file": "json/categories/march26.txt",
+      "name": "২৬শে মার্চ",
+      "suffix": "march26",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/march26.webp",
+      "order": 1
+    },
+    "boishakh": {
+      "api_file": "json/categories/boishakh.txt",
+      "name": "পহেলা বৈশাখ",
+      "suffix": "boishakh",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/pohela.webp",
+      "order": 2
+    },
+    "fitr": {
+      "api_file": "json/categories/fitr.txt",
+      "name": "ঈদুল ফিতর",
+      "suffix": "fitr",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/fitr.webp",
-      "api_file": "json/categories/02.txt",
-      "suffix": "02"
+      "order": 3
     },
-    "03": {
-      "name": "টেস্টিবগ ৩",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-      "api_file": "json/categories/03.txt",
-      "suffix": "03"
+    "adha": {
+      "api_file": "json/categories/adha.txt",
+      "name": "ঈদুল আযহা",
+      "suffix": "adha",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/adha.webp",
+      "order": 6
     },
-    "hfguuu": {
-      "name": "ggjiihg",
-      "thumb": "vgjii.webp",
-      "api_file": "json/categories/hfguuu.txt",
-      "suffix": "hfguuu"
+    "august19": {
+      "api_file": "json/categories/august19.txt",
+      "name": "স্বেচ্ছাসেবক দল",
+      "suffix": "august19",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
+      "order": 4
     },
-    "testingggg": {
-      "name": "Tesyyuihh",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid3.webp",
-      "api_file": "json/categories/testingggg.txt",
-      "suffix": "testingggg"
+    "september1": {
+      "api_file": "json/categories/bnp.txt",
+      "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
+      "suffix": "september1",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+      "order": 5
     },
-    "marrr": {
-      "name": "মারত্যহ",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march3.webp",
-      "api_file": "json/categories/marrr.txt",
-      "suffix": "marrr"
-    },
-    "678": {
-      "name": "জিই",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/march26/march4.webp",
-      "api_file": "json/test.txt",
-      "suffix": "678"
+    "mayday": {
+      "api_file": "json/categories/mayday.txt",
+      "name": "শ্রমিক দিবস",
+      "suffix": "mayday",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/mayday.webp",
+      "order": 0
     }
   }
 }
