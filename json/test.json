@@ -56,6 +56,7 @@
             "name": "বিএনপি",
             "suffix": "7",
             "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp",
+            "locked": "1,4",
             "order": 1
           },
           "02": {
@@ -63,6 +64,7 @@
             "name": "স্বেচ্ছাসেবক দল",
             "suffix": "august19",
             "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
+            "locked": "5",
             "order": 2
           },
           "03": {
