@@ -23,6 +23,66 @@
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/august19/p6.webp",
       "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/august19/p6.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may1.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may1.webp",
+      "elements": [
+        {
+          "x_percent": -0.11397429555654526,
+          "y_percent": 0.7514268755912781,
+          "w_percent": 1.1885080337524414,
+          "h_percent": 0.47507330775260925,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "sticker",
+          "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(14).webp",
+          "cx_percent": 0.48027974367141724,
+          "cy_percent": 0.9889635443687439
+        },
+        {
+          "x_percent": 0.06804534047842026,
+          "y_percent": 0.818446695804596,
+          "w_percent": 0.8427419066429138,
+          "h_percent": 0.1847507357597351,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "CUSTOM:সাইফান হাসান",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 41,
+          "cx_percent": 0.48941630125045776,
+          "cy_percent": 0.9108220934867859
+        },
+        {
+          "x_percent": 0.11238738149404526,
+          "y_percent": 0.543701171875,
+          "w_percent": 0.899193525314331,
+          "h_percent": 0.3145161271095276,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "sticker",
+          "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(13).webp",
+          "cx_percent": 0.5619841814041138,
+          "cy_percent": 0.7009592652320862
+        },
+        {
+          "x_percent": 0.4362910985946655,
+          "y_percent": 0.6170220971107483,
+          "w_percent": 0.5141128897666931,
+          "h_percent": 0.1671554297208786,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "CUSTOM:টেস্ট চলছে",
+          "color": "#00FFFF",
+          "font": "ashalota",
+          "font_size": 32,
+          "cx_percent": 0.6933475732803345,
+          "cy_percent": 0.7005998492240906
+        }
+      ]
     }
   ]
 }
