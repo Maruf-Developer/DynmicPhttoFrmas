@@ -19,39 +19,6 @@
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/adha5_thumb.webp",
       "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/adha5.webp"
-    },
-    {
-      "thumb": "https://github.com/Maruf-Developer/DynmicPhttoFrmas/blob/main/poster/mayday/may1.webp",
-      "bg_url": "https://github.com/Maruf-Developer/DynmicPhttoFrmas/blob/main/poster/mayday/may1.webp",
-      "elements": [
-        {
-          "x_percent": -0.06917940825223923,
-          "y_percent": 0.7452696561813354,
-          "w_percent": 1.163306474685669,
-          "h_percent": 0.33870968222618103,
-          "isEditable": true,
-          "showInUserLayer": true,
-          "type": "sticker",
-          "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(3).webp",
-          "cx_percent": 0.5124738216400146,
-          "cy_percent": 0.9146245121955872
-        },
-        {
-          "x_percent": 0.2372731864452362,
-          "y_percent": 0.8742554187774658,
-          "w_percent": 0.5181451439857483,
-          "h_percent": 0.12976539134979248,
-          "isEditable": true,
-          "showInUserLayer": true,
-          "type": "text",
-          "placeholder": "USER_NAME",
-          "color": "#FFFFFF",
-          "font": "default",
-          "font_size": 24,
-          "cx_percent": 0.49634575843811035,
-          "cy_percent": 0.9391381144523621
-        }
-      ]
     }
   ]
 }
