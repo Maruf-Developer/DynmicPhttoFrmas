@@ -1,0 +1,52 @@
+{
+  "september1": [
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may1.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may1.webp",
+      "elements": [
+        {
+          "x_percent": 0.2446446567773819,
+          "y_percent": 0.8008055686950684,
+          "w_percent": 0.5181451439857483,
+          "h_percent": 0.12976539134979248,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "USER_NAME",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.5037172436714172,
+          "cy_percent": 0.8656882643699646
+        },
+        {
+          "x_percent": 0.40775126218795776,
+          "y_percent": 0.6016255021095276,
+          "w_percent": 0.5584677457809448,
+          "h_percent": 0.23973606526851654,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "CUSTOM:ghj",
+          "color": "#FF0000",
+          "font": "default",
+          "font_size": 70,
+          "cx_percent": 0.6869851350784302,
+          "cy_percent": 0.7214935421943665
+        },
+        {
+          "x_percent": -0.06206094101071358,
+          "y_percent": 0.6678341627120972,
+          "w_percent": 1.1854838132858276,
+          "h_percent": 0.34457477927207947,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "sticker",
+          "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(3).webp",
+          "cx_percent": 0.5306810140609741,
+          "cy_percent": 0.8401215672492981
+        }
+      ]
+    }
+  ]
+}
