@@ -1,4 +1,4 @@
-{ 
+{
   "september1": [
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/p48_1.webp",
@@ -39,6 +39,54 @@
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/p48_10.webp",
       "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/p48_10.webp"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may1.webp",
+      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may1.webp",
+      "elements": [
+        {
+          "x_percent": 0.35383063554763794,
+          "y_percent": 0.4347507357597351,
+          "w_percent": 0.29133063554763794,
+          "h_percent": 0.12976539134979248,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "CUSTOM:marug",
+          "color": "#FFFFFF",
+          "font": "default",
+          "font_size": 24,
+          "cx_percent": 0.4994959533214569,
+          "cy_percent": 0.49963343143463135
+        },
+        {
+          "x_percent": -0.12625910341739655,
+          "y_percent": 0.6929885149002075,
+          "w_percent": 1.2217742204666138,
+          "h_percent": 0.35483869910240173,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "sticker",
+          "url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/stickers/footer/footer%20(8).webp",
+          "cx_percent": 0.48462799191474915,
+          "cy_percent": 0.8704078793525696
+        },
+        {
+          "x_percent": 0.41707390546798706,
+          "y_percent": 0.5961728096008301,
+          "w_percent": 0.5977822542190552,
+          "h_percent": 0.22580644488334656,
+          "isEditable": true,
+          "showInUserLayer": true,
+          "type": "text",
+          "placeholder": "CUSTOM:testing",
+          "color": "#FF0000",
+          "font": "bijoy_irsha",
+          "font_size": 48,
+          "cx_percent": 0.7159650325775146,
+          "cy_percent": 0.7090760469436646
+        }
+      ]
     }
   ],
   "august19": [
