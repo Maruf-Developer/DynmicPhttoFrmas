@@ -430,7 +430,7 @@
       "order": 99,
       "sub_categories": {
         "august19": {
-          "api_file": "json/categories/august19.txt",
+          "api_file": "json/categories/bnp.txt",
           "name": "স্বেচ্ছাসেবক দল",
           "suffix": "august19",
           "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
@@ -481,7 +481,7 @@
       "order": 4
     },
     "september1": {
-      "api_file": "json/categories/september1.txt",
+      "api_file": "json/categories/bnp.txt",
       "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
       "suffix": "september1",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
