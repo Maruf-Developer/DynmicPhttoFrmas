@@ -1,0 +1,100 @@
+"bangladesh_categories": {
+      "01": {
+        "api_file": "bangladesh.txt",
+        "name": "২১শে ফেব্রুয়ারী",
+        "suffix": "february21",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/feb21.webp",
+        "order": 1
+      },
+      "02": {
+        "api_file": "bangladesh.txt",
+        "name": "২৬শে মার্চ",
+        "suffix": "march26",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/march26.webp",
+        "order": 2
+      },
+      "03": {
+        "api_file": "bangladesh.txt",
+        "name": "১৬ ডিসেম্বর",
+        "suffix": "december16",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/dec16.webp",
+        "order": 3
+      },
+      "04": {
+        "api_file": "bangladesh.txt",
+        "name": "পহেলা বৈশাখ",
+        "suffix": "pohela",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/pohela.webp",
+        "order": 4
+      },
+      "05": {
+        "api_file": "bangladesh.txt",
+        "name": "শ্রমিক দিবস",
+        "suffix": "mayday",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/mayday.webp",
+        "order": 5
+      },
+      "06": {
+        "api_file": "bangladesh.txt",
+        "name": "বুদ্ধিজীবী দিবস",
+        "suffix": "buddhijibi",
+        "thumb": "আপনার থাম্বনেইল লিংক",
+        "order": 6
+      },
+      "07": {
+        "api_file": "islamic.txt",
+        "name": "ঈদ মোবারক",
+        "suffix": "3",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp",
+        "order": 7
+      },
+      "21": {
+        "name": "বিএনপি",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp",
+        "order": 8,
+        "sub_categories": {
+          "01": {
+            "api_file": "bnp.txt",
+            "name": "বিএনপি",
+            "suffix": "bnp",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp",
+            "order": 1
+          },
+          "02": {
+            "api_file": "bnp.txt",
+            "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
+            "suffix": "september1",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+            "order": 2
+          },
+          "03": {
+            "api_file": "bnp.txt",
+            "name": "স্বেচ্ছাসেবক দল",
+            "suffix": "august19",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
+            "order": 3
+          }
+        }
+      },
+      "22": {
+        "name": "আওয়ামী লীগ",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
+        "order": 9,
+        "sub_categories": {
+          "01": {
+            "api_file": "awami.txt",
+            "name": "আওয়ামী লীগ",
+            "suffix": "awami",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
+            "order": 1
+          },
+          "02": {
+            "api_file": "awami.txt",
+            "name": "শোক দিবস",
+            "suffix": "shok",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/shok.webp",
+            "order": 2
+          }
+        }
+      }
+    }
