@@ -14,6 +14,65 @@
     },
     "poster_control": {
       "need_user_photo": false
+    },
+    "page_ads": {
+      "AllCategoryActivity": {
+        "inter": true
+      },
+      "PosterTemplateListActivity": {
+        "banner": true,
+        "inter": true
+      },
+      "HomeActivity": {
+        "banner": true,
+        "inter": true
+      },
+      "SubCategoryActivity": {
+        "banner": true,
+        "inter": true
+      },
+      "ShareActivity": {
+        "banner": true,
+        "inter": true
+      },
+      "BangladeshActivity": {
+        "inter": true
+      },
+      "PreEditGalleryPhotoActivity": {
+        "inter": true,
+        "reward": true
+      },
+      "StatusActivity": {
+        "banner": true,
+        "inter": true
+      },
+      "AllFramesActivity": {
+        "inter": true
+      },
+      "PosterCategoryActivity": {
+        "inter": true
+      },
+      "CreationActivity": {
+        "banner": true,
+        "inter": true
+      },
+      "DashboardActivity": {
+        "inter": true
+      },
+      "EditingPhotoActivity": {
+        "banner": false,
+        "inter": true
+      },
+      "PhotoFrameActivity": {
+        "banner": true,
+        "inter": true
+      },
+      "CropActivity": {
+        "inter": true
+      },
+      "UserProfileActivity": {
+        "reward": true
+      }
     }
   },
   "frames": {
