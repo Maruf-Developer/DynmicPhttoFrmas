@@ -148,11 +148,40 @@
         "order": 9
       },
       "22": {
-        "api_file": "awami.txt",
         "name": "আওয়ামী লীগ",
-        "suffix": "awami",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
-        "order": 12
+        "order": 4,
+        "sub_categories": {
+          "01": {
+            "api_file": "awami.txt",
+            "name": "আওয়ামী লীগ",
+            "suffix": "awami",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
+            "order": 1
+          },
+          "02": {
+            "api_file": "awami.txt",
+            "name": "শোক দিবস",
+            "suffix": "shok",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/shok.webp",
+            "order": 2
+          },
+          
+        "03": {
+          "api_file": "awami.txt",
+          "name": "আওয়ামী লীগ প্রতিষ্ঠাবার্ষিকী",
+          "suffix": "june23",
+          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/AWAMI/june23.webp",
+          "order": 3
+        },
+         "04": {
+          "api_file": "awami.txt",
+          "name": "শেখ হাসিনা জন্মদিন",
+          "suffix": "hasina_birthday",
+          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/AWAMI/hasina_birth.webp",
+          "order": 4
+        }
+        }
       }
     },
     "famous_categories": {
@@ -504,13 +533,6 @@
       "suffix": "bnp",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp",
       "order": 6
-    },
-    "22": {
-      "api_file": "json/categories/awami.txt",
-      "name": "আওয়ামী লীগ",
-      "suffix": "awami",
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
-      "order": 9
     }
   }
 }
