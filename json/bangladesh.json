@@ -125,6 +125,34 @@
         "suffix": "3",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/adha.webp",
         "order": 8
+      },
+      "19": {
+        "api_file": "bnp.txt",
+        "name": "স্বেচ্ছাসেবক দল",
+        "suffix": "august19",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
+        "order": 11
+      },
+      "20": {
+        "api_file": "bnp.txt",
+        "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
+        "suffix": "september1",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+        "order": 10
+      },
+      "21": {
+        "api_file": "bnp.txt",
+        "name": "বিএনপি",
+        "suffix": "bnp",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp",
+        "order": 9
+      },
+      "22": {
+        "api_file": "awami.txt",
+        "name": "আওয়ামী লীগ",
+        "suffix": "awami",
+        "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
+        "order": 12
       }
     },
     "famous_categories": {
@@ -455,6 +483,34 @@
       "suffix": "adha",
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/adha.webp",
       "order": 5
+    },
+    "19": {
+      "api_file": "json/categories/august19.txt",
+      "name": "স্বেচ্ছাসেবক দল",
+      "suffix": "august19",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_poster/august19.webp",
+      "order": 8
+    },
+    "20": {
+      "api_file": "json/categories/bnp.txt",
+      "name": "বিএনপি প্রতিষ্ঠাবার্ষিকী",
+      "suffix": "september1",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
+      "order": 7
+    },
+    "21": {
+      "api_file": "json/categories/bnp.txt",
+      "name": "বিএনপি",
+      "suffix": "bnp",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/bnp.webp",
+      "order": 6
+    },
+    "22": {
+      "api_file": "json/categories/awami.txt",
+      "name": "আওয়ামী লীগ",
+      "suffix": "awami",
+      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
+      "order": 9
     }
   }
 }
