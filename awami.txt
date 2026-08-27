@@ -118,5 +118,46 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land1/fram-11.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land3/fram-13.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land3/fram-14.webp"
-  ]
+  ],
+
+  "june23_square_locked": [],
+  "june23_square": [
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/june23/s78%20(1).webp"
+],
+
+  "hasina_birthday_square_locked": [],
+  "hasina_birthday_square": [
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/s80_1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/s80_2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/squr-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/squr-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/squr-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/squr-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/port-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/port-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-5.webp"
+      
+],
+
+
+
+
+
+
+  "t_square_locked": [],
+  "t_square": [
+]
+
 }
+
+
+
+
+
+
+
+
