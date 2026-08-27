@@ -150,7 +150,7 @@
       "22": {
         "name": "আওয়ামী লীগ",
         "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
-        "order": 4,
+        "order": 22,
         "sub_categories": {
           "01": {
             "api_file": "awami.txt",
