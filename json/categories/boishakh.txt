@@ -1,4 +1,5 @@
 {
+  "boishakh_locked": [2,4],
   "boishakh": [
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/pohela/pohela1_thumb.webp",
