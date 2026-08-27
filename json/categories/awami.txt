@@ -1,5 +1,5 @@
 {
-  "june23_locked": [1],
+  "june23_locked": [],
   "june23": [
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/poster/june23%20(1).webp",
@@ -11,7 +11,7 @@
     }
   ],
 
-  "hasina_birthday_locked": [2],
+  "hasina_birthday_locked": [],
   "hasina_birthday": [
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/poster/hasina_birth%20(1).webp",
