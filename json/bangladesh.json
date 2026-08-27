@@ -178,14 +178,14 @@
           "api_file": "awami.txt",
           "name": "আওয়ামী লীগ প্রতিষ্ঠাবার্ষিকী",
           "suffix": "june23",
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
+          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/AWAMI/june23.webp",
           "order": 3
         },
          "04": {
           "api_file": "awami.txt",
           "name": "শেখ হাসিনা জন্মদিন",
           "suffix": "hasina_birthday",
-          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/thumb_sm/awami.webp",
+          "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/AWAMI/hasina_birth.webp",
           "order": 4
         }
         }
