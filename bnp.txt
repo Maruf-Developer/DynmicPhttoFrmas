@@ -19,7 +19,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-13.webp"
   ],
 
-  "bnp_portrait_locked": ["2,4"],
+  "bnp_portrait_locked": [],
   "bnp_portrait": [
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda/birthp%20(1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda/birthp%20(2).webp",
@@ -74,7 +74,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/19thAugust/p1.webp"
   ],
 
-  "september1_square_locked": [2,3],
+  "september1_square_locked": ["2,3"],
   "september1_square": [
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/f48_1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/f48_2.webp",
