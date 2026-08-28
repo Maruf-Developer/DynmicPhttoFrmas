@@ -19,7 +19,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-13.webp"
   ],
 
-  "bnp_portrait_locked": [2,6],
+  "bnp_portrait_locked": [],
   "bnp_portrait": [
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda/birthp%20(1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/BNPPhotoFrame/khaleda/birthp%20(2).webp",
