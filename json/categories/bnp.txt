@@ -1,4 +1,5 @@
 {
+  "september1_locked": [2],
   "september1": [
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/p48_1.webp",
