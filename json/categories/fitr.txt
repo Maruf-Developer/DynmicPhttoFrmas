@@ -1,4 +1,5 @@
 {
+ "fitr_locked": [2,4],
   "fitr": [
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/eid/eid1_thumb.webp",
