@@ -1,5 +1,5 @@
 {
-  "september1_locked": [2],
+  "september1_locked": [2,7,9],
   "september1": [
   {
     "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/foundation/sep1/48_p%20(3).webp",
