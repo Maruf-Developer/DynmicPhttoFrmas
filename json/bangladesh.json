@@ -544,7 +544,14 @@
           "suffix": "september1",
           "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/september1/banner48.webp",
           "order": 2
-        }
+        },
+        "03": {
+            "api_file": "json/categories/bnp.txt",
+            "name": "তারেক রহমান কারামুক্তি",
+            "suffix": "september3",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/banner_19.webp",
+            "order": 3
+          }
       }
     },
     "22": {
