@@ -99,5 +99,42 @@
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/august19/p6.webp",
       "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/BNP/august19/p6.webp"
     }
+  ],
+
+
+  "september3_locked": [1,7],
+  "september3": [
+    {
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(1).webp",
+    "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(1).webp"
+  },
+  {
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(2).webp",
+    "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(2).webp"
+  },
+  {
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(3).webp",
+    "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(3).webp"
+  },
+  {
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(4).webp",
+    "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(4).webp"
+  },
+  {
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(5).webp",
+    "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(5).webp"
+  },
+  {
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(6).webp",
+    "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(6).webp"
+  },
+  {
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(7).webp",
+    "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(7).webp"
+  },
+  {
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(8).webp",
+    "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/19_p%20(8).webp"
+  }
   ]
 }
