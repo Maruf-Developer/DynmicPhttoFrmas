@@ -140,8 +140,8 @@
 
 
 
-  "sep11_locked": [1,2,5,7],
-  "sep11": [
+  "september11_locked": [1,2,5,7],
+  "september11": [
     {
     "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/sep11/19_p%20(1).webp",
     "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/sep11/19_p%20(1).webp"
