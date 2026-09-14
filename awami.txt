@@ -125,11 +125,11 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/refs/heads/main/AwamLigPhtoFrmees/june23/s78%20(1).webp"
 ],
 
-  "hasina_birthday_square_locked": ["1,5,7"],
+  "hasina_birthday_square_locked": ["1,5,7,14"],
   "hasina_birthday_square": [
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(5).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(14).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(2).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(7).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(3).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(11).webp",
@@ -138,7 +138,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(6).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(8).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(9).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(2).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(14).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(12).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/f_80%20(13).webp"
       
