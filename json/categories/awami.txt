@@ -11,7 +11,7 @@
     }
   ],
 
-  "hasina_birthday_locked": [],
+  "hasina_birthday_locked": [1,5,7],
 "hasina_birthday": [
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/AwamiPhttoFrmaes/birthday/hasina/p_80%20(1).webp",
