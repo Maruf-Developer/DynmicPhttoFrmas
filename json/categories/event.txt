@@ -1,9 +1,9 @@
 {
-  "boishakh_locked": [],
-  "boishakh": [
+  "newyear_locked": [2,3],
+  "newyear": [
     {
-      "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/pohela/pohela1_thumb.webp",
-      "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/pohela/pohela1.webp"
+      "thumb": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:3e7ffad3-b2dd-5d1c-8f13-836fe48c9f4e/component?assetType=TEMPLATE&etag=b45f117f2cd24208b65dd2f74eaeaecd&revision=1b8c210b-9f09-4488-83cb-151166b9b6c1&component_id=120e5ba7-e30a-4100-b633-17a0d9575e37",
+      "bg_url": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:3e7ffad3-b2dd-5d1c-8f13-836fe48c9f4e/component?assetType=TEMPLATE&etag=b45f117f2cd24208b65dd2f74eaeaecd&revision=1b8c210b-9f09-4488-83cb-151166b9b6c1&component_id=120e5ba7-e30a-4100-b633-17a0d9575e37"
     },
     {
       "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/pohela/pohela2_thumb.webp",
