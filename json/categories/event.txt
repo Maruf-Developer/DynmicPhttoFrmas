@@ -3,7 +3,7 @@
   "newyear":
     [
   {
-    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027_thumb%20(1).webp",
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(1)_thumb.webp",
     "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(1).webp"
   },
   {
