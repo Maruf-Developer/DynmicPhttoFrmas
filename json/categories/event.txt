@@ -7,27 +7,27 @@
     "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(1).webp"
   },
   {
-    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027_thumb%20(2).webp",
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(2)_thumb.webp",
     "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(2).webp"
   },
   {
-    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027_thumb%20(3).webp",
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(3)_thumb.webp",
     "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(3).webp"
   },
   {
-    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027_thumb%20(4).webp",
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(4)_thumb.webp",
     "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(4).webp"
   },
   {
-    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027_thumb%20(5).webp",
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(5)_thumb.webp",
     "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(5).webp"
   },
   {
-    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may2_thumb.webp",
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(6).webp",
     "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(6).webp"
   },
   {
-    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/poster/mayday/may1_thumb.webp",
+    "thumb": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(7).webp",
     "bg_url": "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p2027%20(7).webp"
   }
 ]
