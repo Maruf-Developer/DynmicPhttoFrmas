@@ -90,6 +90,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/l%20(37).webp"
   ],
 
+"newyear_square_locked": ["1,5"],
  "newyear_square": [
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/s%20(1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/s%20(2).webp",
@@ -109,6 +110,8 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/s%20(9).webp"
   ],
 
+
+"newyear_square1_locked": ["1,5"],
  "newyear_square1": [
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/s%20(21).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/s%20(22).webp",
@@ -124,6 +127,8 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/s%20(11).webp"
     ],
 
+
+"newyear_square2_locked": ["3,6"],
  "newyear_square2": [
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/sh%20(1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/sh%20(2).webp",
@@ -139,6 +144,8 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/sh%20(12).webp"
  ],
 
+
+"newyear_portrait_locked": ["1,5,13,19"],
   "newyear_portrait": [
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p%20(1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p%20(2).webp",
@@ -161,6 +168,9 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p%20(28).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/p%20(29).webp"
   ],
+
+
+"newyear_landscape_locked": ["1,10"],
   "newyear_landscape": [
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/l%20(1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/l%20(2).webp",
@@ -178,6 +188,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/l%20(30).webp"
   ],
 
+"newyear_landscape1_locked": ["1,12"],
   "newyear_landscape1": [
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/l%20(7).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/l%20(8).webp",
@@ -200,6 +211,8 @@
  
   ],
 
+
+"newyear_landscape2_locked": ["2,5"],
   "newyear_landscape2": [
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/lh%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/2027/lh%20(2).webp",
