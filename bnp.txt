@@ -119,7 +119,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/sep11/19_f%20(9).webp"
   ],
 
-  "october27_square_locked": ["1,5,7"],
+  "october27_square_locked": ["1,2,6"],
   "october27_square": [
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/foundation/oct27/48_f%20(1).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/foundation/oct27/48_f%20(7).webp",
