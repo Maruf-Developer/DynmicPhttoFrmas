@@ -139,7 +139,7 @@
   ],
 
 
-  "october27_locked": [],
+  "october27_locked": [1,4,6],
   "october27": [
   {
     "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/foundation/oct27/48_p%20(1).webp",
