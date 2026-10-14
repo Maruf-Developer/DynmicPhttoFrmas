@@ -157,14 +157,21 @@
             "name": "খালেদা জিয়া কারামুক্তি",
             "suffix": "september11",
             "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/sep11/banner_19.webp",
-            "order": 4
+            "order": 5
           },
           "05": {
             "api_file": "bnp.txt",
             "name": "তারেক রহমান কারামুক্তি",
             "suffix": "september3",
             "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/banner_19.webp",
-            "order": 5
+            "order": 6
+          },
+          "06": {
+            "api_file": "bnp.txt",
+            "name": "যুবদল প্রতিষ্ঠাবার্ষিকী",
+            "suffix": "october27",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/foundation/oct27/banner48.webp",
+            "order": 4
           }
         }
       },
@@ -565,7 +572,14 @@
           "suffix": "september3",
           "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/banner_19.webp",
           "order": 4
-        }
+        },
+        "05": {
+            "api_file": "json/categories/bnp.txt",
+            "name": "যুবদল প্রতিষ্ঠাবার্ষিকী",
+            "suffix": "october27",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/foundation/oct27/banner48.webp",
+            "order": 5
+          }
       }
     },
     "22": {
