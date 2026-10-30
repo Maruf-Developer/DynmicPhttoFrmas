@@ -1,17 +1,9 @@
 {    
-  "English_locked": [1,2,4],
+  "English_locked": [],
   "English":[
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/sqr/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/sqr/fram-2.webp"
-    ],
-  
-  "bangla":[
-     
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-1.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-2.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-3.webp"
-     
     ]
 }
