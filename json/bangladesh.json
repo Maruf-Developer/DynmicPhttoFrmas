@@ -164,7 +164,7 @@
             "name": "তারেক রহমান কারামুক্তি",
             "suffix": "september3",
             "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/karamukti/september3/banner_19.webp",
-            "order": 6
+            "order": 5
           },
           "06": {
             "api_file": "bnp.txt",
@@ -178,7 +178,7 @@
             "name": "বিপ্লব ও সংহতি দিবস",
             "suffix": "november7",
             "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/november7/banner.webp",
-            "order": 5
+            "order": 6
           }
         }
       },
