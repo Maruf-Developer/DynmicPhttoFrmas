@@ -585,14 +585,14 @@
           "name": "যুবদল প্রতিষ্ঠাবার্ষিকী",
           "suffix": "october27",
           "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/foundation/oct27/banner48.webp",
-          "order": 5
+          "order": 4
         },
         "07": {
           "api_file": "json/categories/bnp.txt",
           "name": "বিপ্লব ও সংহতি দিবস",
           "suffix": "november7",
           "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/november7/banner.webp",
-          "order": 4
+          "order": 5
         }
       }
     },
