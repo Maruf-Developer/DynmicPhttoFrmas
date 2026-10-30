@@ -1,9 +1,13 @@
 {    
   "English_locked": [],
   "English":[
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/sqr/fram-1.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-1.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/port/fram-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/USindependnceFrams/sqr/fram-2.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(1).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(2).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(3).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(4).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/h%20(1).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/h%20(2).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/h%20(3).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(5).webp"
     ]
 }
