@@ -1,13 +1,20 @@
 {    
   "English_locked": [],
   "English":[
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(6).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(7).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(1).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(8).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(2).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(3).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(4).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(9).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(10).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/h%20(1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/h%20(2).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/h%20(3).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(12).webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(11).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/DynmicPhttoFrmas/refs/heads/main/wishing_card/event/newyear2027/e%20(5).webp"
     ]
 }
