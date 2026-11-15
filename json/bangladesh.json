@@ -179,6 +179,13 @@
             "suffix": "november7",
             "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/november7/banner.webp",
             "order": 6
+          },
+          "08": {
+            "api_file": "bnp.txt",
+            "name": "তারেক রহমান জন্মদিন",
+            "suffix": "november20",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_banner.webp",
+            "order": 20
           }
         }
       },
@@ -593,7 +600,14 @@
           "suffix": "november7",
           "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/november7/banner.webp",
           "order": 5
-        }
+        },
+        "08": {
+            "api_file": "json/categories/bnp.txt",
+            "name": "তারেক রহমান জন্মদিন",
+            "suffix": "november20",
+            "thumb": "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_banner.webp",
+            "order": 20
+          }
       }
     },
     "22": {
