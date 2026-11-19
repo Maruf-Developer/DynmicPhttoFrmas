@@ -145,7 +145,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/november7/f%20(11).webp"
 ],
 
-  "november20_square_locked": ["1,4,6,8,9,13,14,15,18"],
+  "november20_square_locked": ["1,4,6,8,9,13,14,15,17,20"],
   "november20_square": [
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_f%20(1).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_f%20(2).webp",
@@ -163,6 +163,8 @@
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_f%20(15).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_f%20(16).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_f%20(17).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_f%20(20).webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_f%20(21).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_f%20(18).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BangllaPhtoFrmes/refs/heads/main/BNPPhtttoFrmaes/birthday/tarek/62_f%20(19).webp"
 ]
